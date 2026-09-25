@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .env
+data/raw/*.parquet
+data/raw/*.csv
+
