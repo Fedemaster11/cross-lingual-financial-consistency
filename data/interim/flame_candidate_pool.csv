@@ -1,0 +1,1030 @@
+candidate_id,family,sentence,label,source,language,match_score,word_count
+CAND00001,contract_realization,Warren Buffett’s Berkshire Hathaway may have scored a ‘genius’ win-win in $10 billion acquisition that could mark the last big deal of his career,neutral,https://finance.yahoo.com,en,3,24
+CAND00002,contract_realization,Curtiss-Wright earnings on deck after Boeing contract win,positive,https://www.investing.com,en,2,8
+CAND00003,contract_realization,Why an acquisition deal won’t save Walgreens’ future,neutral,https://insideretail.com.au,en,2,8
+CAND00004,contract_realization,EnfraGen Awarded Acquisition Deal of the Year by Project Finance International,positive,https://glenfarnegroup.com,en,2,11
+CAND00005,contract_realization,Why TCS stock is plunging despite earnings beat strong deal wins?,negative,https://invezz.com,en,2,11
+CAND00006,contract_realization,Salesforce Q1 Earnings: Benioff Says Informatica Deal A Win For ‘Data Transformation’,positive,https://www.crn.com,en,2,12
+CAND00007,contract_realization,Steadfast’s Kelly says tougher ACCC merger rules won’t slow its deal machine,neutral,https://www.insurancebusinessmag.com,en,2,12
+CAND00008,contract_realization,"Infosys revenue up 3.2% in Q3, raises FY26 guidance on large deal wins",positive,https://timesofindia.indiatimes.com,en,2,13
+CAND00009,contract_realization,"India's TCS falls as rare annual revenue drop dulls quarterly earnings beat, deal wins",negative,https://www.reuters.com,en,2,14
+CAND00010,contract_realization,Infosys ADR Jumps 10 Percent on NYSE After Upgraded FY26 Revenue Growth Outlook and Strong Deal Wins,positive,https://www.cnbctv18.com,en,2,17
+CAND00011,cost_direction,"Elevance cuts 2025 guidance as profit falls from higher ACA, Medicaid costs",negative,https://www.healthcaredive.com,en,3,12
+CAND00012,cost_direction,"Elevance Health Q2 2025 slides: revenue up 14%, EPS guidance cut on higher medical costs",negative,https://www.investing.com,en,3,15
+CAND00013,cost_direction,Newtrend Group Issues Profit Warning: Anticipates 60-80% Profit Decline for 2025 Due to Increased Costs and Lower Forex Gains 12,negative,https://www.minichart.com.sg,en,3,20
+CAND00014,cost_direction,Nick Scali issues profit warning on higher freight costs,negative,https://www.theaustralian.com.au,en,2,9
+CAND00015,cost_direction,"Amazon's stock soars 10% on third-quarter beat, increased spending guidance",positive,https://www.cnbc.com,en,2,10
+CAND00016,cost_direction,Microsoft earnings beat estimates but higher spending outlook disappoints street,neutral,https://www.cnbctv18.com,en,2,10
+CAND00017,cost_direction,Molina cuts earnings guidance as costs rise in government programs,negative,https://www.healthcaredive.com,en,2,10
+CAND00018,cost_direction,"News | Fed decision means higher-for-longer costs, hotel execs say",neutral,https://www.costar.com,en,2,10
+CAND00019,cost_direction,Treasury yields move higher amid rising oil and labor costs,negative,https://www.cnbc.com,en,2,10
+CAND00020,cost_direction,"Wells Fargo Profit Rises in Q1, Boosted by Lower Expenses",positive,https://www.wsj.com,en,2,10
+CAND00021,cost_direction,"Citigroup stock drops after earnings: Russia hit, cost cuts in focus",negative,https://ts2.tech,en,2,11
+CAND00022,cost_direction,GOOGL: Alphabet Stock Ticks Lower After Massive AI Spending Spooks Traders,negative,https://www.tradingview.com,en,2,11
+CAND00023,cost_direction,"Intel beats third-quarter profit estimates as cost cuts, investments pay off",positive,https://www.reuters.com,en,2,11
+CAND00024,cost_direction,Meta Q4 earnings: Stock surges on plans for increased AI spending,positive,https://finance.yahoo.com,en,2,11
+CAND00025,cost_direction,"RES Q4 Earnings Miss Estimates on Higher Costs, Revenues Rise Y/Y",negative,https://finance.yahoo.com,en,2,11
+CAND00026,cost_direction,TD pledges to cut billions in costs as it restores guidance,positive,https://www.canadianmortgagetrends.com,en,2,11
+CAND00027,cost_direction,US urges Australia to increase defence spending to 3.5% of GDP,neutral,https://www.aljazeera.com,en,2,11
+CAND00028,cost_direction,Will Google Follow Meta With Much Higher 2026 Capital Spending Guidance?,neutral,https://www.investors.com,en,2,11
+CAND00029,cost_direction,"BMW cuts 2025 earnings forecast on weak China sales, U.S. tariff costs",negative,https://www.autonews.com,en,2,12
+CAND00030,cost_direction,"Cars.com cuts 11% of workforce, boosts share buyback plan amid cost realignment",positive,https://www.cbtnews.com,en,2,12
+CAND00031,cost_direction,ING Groep (ING) Target Raised to €28 on Earnings and Cost Cuts,positive,https://finance.yahoo.com,en,2,12
+CAND00032,cost_direction,Interest rate cuts might have less impact on spending than expected: study,neutral,https://www.commbank.com.au,en,2,12
+CAND00033,cost_direction,Wetherspoon Confronts £100M Labour-Related Cost Pressure as Profit Decline Surpasses Revenue Increase,negative,https://www.bitget.com,en,2,12
+CAND00034,cost_direction,"Amazon's Ad Revenue Grew 22% Over the Past Year, but Capex Spending Balloons",positive,https://www.adweek.com,en,2,13
+CAND00035,cost_direction,CNBC Daily Open: Tesla's revenue rose — but so did its operating costs,neutral,https://www.cnbc.com,en,2,13
+CAND00036,cost_direction,"Higher defence spending can power more jobs and economic growth, says new report",positive,https://prospect.org.uk,en,2,13
+CAND00037,cost_direction,OTP Bank posts mixed Q4 results with revenue beat offset by higher costs,neutral,https://ca.investing.com,en,2,13
+CAND00038,cost_direction,"Vertu profits warning, cuts jobs and shuts on Sundays to counter rising costs",negative,https://www.motortrader.com,en,2,13
+CAND00039,cost_direction,Chevron Targets $3 Billion in Cost Cuts: Here’s the Case for $288 per Share,positive,https://www.tikr.com,en,2,14
+CAND00040,cost_direction,Exxon beats Wall Street targets for Q4 profit with help from lower-cost oil production,positive,https://www.bnnbloomberg.ca,en,2,14
+CAND00041,cost_direction,"Tesla profit falls short despite record sales, hit by higher costs and fading credits",negative,https://www.reuters.com,en,2,14
+CAND00042,cost_direction,"Walmart shares fall as higher costs, supply chain problems and inventories eat into profits",negative,https://www.cnbc.com,en,2,14
+CAND00043,cost_direction,Google's CFO says consolidating teams has helped the company cut costs and build products faster,positive,https://www.businessinsider.com,en,2,15
+CAND00044,cost_direction,"US may exclude government spending from GDP, obscuring effect of Doge cuts | Trump administration",neutral,https://www.theguardian.com,en,2,15
+CAND00045,cost_direction,UnitedHealth's stock is plunging on higher medical costs. That may mean trouble for more insurers,negative,https://www.cnbc.com,en,2,15
+CAND00046,cost_direction,"Exclusive | Illumina to Cut $100 Million in Costs, Lowers Guidance Because of China Sales Ban",negative,https://www.wsj.com,en,2,16
+CAND00047,cost_direction,"US economy grew at fastest pace in 2 years in third quarter, fueled by consumer spending",positive,https://www.foxbusiness.com,en,2,16
+CAND00048,cost_direction,Exxon Mobil earnings beat as production growth and cost cuts offset the sting of falling oil prices,positive,https://www.cnbc.com,en,2,17
+CAND00049,cost_direction,"Google's new CFO makes earnings call debut, says company can 'push a little further' on cost cuts",positive,https://www.cnbc.com,en,2,17
+CAND00050,cost_direction,‘A lazy cost-saving measure’: the Coalition’s efficiency dividend hike may mean longer wait times and reduced services,neutral,https://theconversation.com,en,2,17
+CAND00051,earnings_expectations,Revenue Beat: Engie SA Exceeded Revenue Forecasts By 85% And Analysts Are Updating Their Estimates,positive,https://simplywall.st,en,7,15
+CAND00052,earnings_expectations,Revenue Beat: Orion S.A. Exceeded Revenue Forecasts By 7.1% And Analysts Are Updating Their Estimates,positive,https://finance.yahoo.com,en,7,15
+CAND00053,earnings_expectations,"Revenue Beat: Casio Computer Co.,Ltd. Exceeded Revenue Forecasts By 11% And Analysts Are Updating Their Estimates",positive,https://simplywall.st,en,7,16
+CAND00054,earnings_expectations,Revenue Miss: Kontron AG Fell 5.5% Short Of Analyst Revenue Estimates And Analysts Have Been Revising Their Models,negative,https://finance.yahoo.com,en,7,18
+CAND00055,earnings_expectations,Earnings Miss: Metro Inc. Missed EPS By 5.4% And Analysts Are Revising Their Forecasts,negative,https://simplywall.st,en,6,14
+CAND00056,earnings_expectations,"Earnings Beat: JD.com, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",positive,https://simplywall.st,en,6,15
+CAND00057,earnings_expectations,"Earnings Beat: Spotify Technology S.A. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",positive,https://finance.yahoo.com,en,6,16
+CAND00058,earnings_expectations,"Earnings Miss: Aux Electric Co., Ltd. Missed EPS By 30% And Analysts Are Revising Their Forecasts",negative,https://simplywall.st,en,6,16
+CAND00059,earnings_expectations,"Earnings Beat: CALB Group Co., Ltd. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",positive,https://simplywall.st,en,6,17
+CAND00060,earnings_expectations,"Earnings Beat: Nongfu Spring Co., Ltd. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",positive,https://simplywall.st,en,6,17
+CAND00061,earnings_expectations,AMD forecasts first-quarter revenue above analysts’ estimates,positive,https://www.theglobeandmail.com,en,5,7
+CAND00062,earnings_expectations,"Alphabet beats EPS, revenue estimates in its Q4 earnings",positive,https://www.cnbc.com,en,5,9
+CAND00063,earnings_expectations,MercadoLibre's third-quarter net profit misses estimates despite revenue beat,negative,https://www.reuters.com,en,5,9
+CAND00064,earnings_expectations,Revenue Beat: Seatrium Limited Beat Analyst Estimates By 22%,positive,https://finance.yahoo.com,en,5,9
+CAND00065,earnings_expectations,Baidu's Q4 Earnings Beat Estimates Despite Revenue and Profit Decline,neutral,https://finance.yahoo.com,en,5,10
+CAND00066,earnings_expectations,IBM Q4 2025 earnings results beat EPS and revenue expectations,positive,http://www.shacknews.com,en,5,10
+CAND00067,earnings_expectations,"IBM earnings beat by $0.12, revenue fell short of estimates",negative,https://m.uk.investing.com,en,5,10
+CAND00068,earnings_expectations,"Ovintiv earnings beat by $2.73, revenue fell short of estimates",neutral,https://ca.investing.com,en,5,10
+CAND00069,earnings_expectations,"Arbe Robotics earnings beat, revenue fell short of estimates By Investing.com",neutral,https://uk.investing.com,en,5,11
+CAND00070,earnings_expectations,"BioRestorative Therapies earnings beat by $0.01, revenue fell short of estimates",neutral,https://ca.investing.com,en,5,11
+CAND00071,earnings_expectations,"Goldman Sachs earnings beat by $2.39, revenue fell short of estimates",neutral,https://za.investing.com,en,5,11
+CAND00072,earnings_expectations,"Phillips 66 earnings beat by $0.22, revenue fell short of estimates",neutral,https://uk.investing.com,en,5,11
+CAND00073,earnings_expectations,"Pioneer Pow earnings beat by $0.03, revenue fell short of estimates",neutral,https://uk.investing.com,en,5,11
+CAND00074,earnings_expectations,Stanley Black & Decker beats Q4 profit estimates despite revenue miss,positive,https://www.msn.com,en,5,11
+CAND00075,earnings_expectations,"Steel Dynamics earnings beat by $0.13, revenue fell short of estimates",neutral,https://au.investing.com,en,5,11
+CAND00076,earnings_expectations,US Foods beats Q4 earnings estimates despite revenue miss By Investing.com,positive,https://uk.investing.com,en,5,11
+CAND00077,earnings_expectations,"Meta rises after sales, earnings beat and Q1 revenue guidance exceeds expectations",positive,https://sherwood.news,en,5,12
+CAND00078,earnings_expectations,"Meta reports earnings, revenue miss and forecasts second straight quarter of declining sales",negative,https://www.cnbc.com,en,5,13
+CAND00079,earnings_expectations,Jiumaojiu International Holdings Limited Earnings Missed Analyst Estimates: Here's What Analysts Are Forecasting Now,negative,https://simplywall.st,en,5,14
+CAND00080,earnings_expectations,"Tesla misses Wall Street expectations on revenue, earnings per share in second quarter earnings",negative,https://fortune.com,en,5,14
+CAND00081,earnings_expectations,"ESCO Q4 2025 Earnings: Revenue Up 17.3%, EPS Beats Estimates, Guidance Raised - News and Statistics",positive,https://www.indexbox.io,en,5,16
+CAND00082,earnings_expectations,"Netflix beats on earnings, but shares dip as the streamer's forecast for Q1 falls short of Wall Street expectations",negative,https://www.businessinsider.com,en,5,19
+CAND00083,earnings_expectations,AMD Q1 revenue forecast beats estimates,positive,https://www.bnnbloomberg.ca,en,4,6
+CAND00084,earnings_expectations,Alphabet beat earnings and revenue expectations,positive,https://sherwood.news,en,4,6
+CAND00085,earnings_expectations,Ferrari NV earnings and revenue beat estimates,positive,https://www.investing.com,en,4,7
+CAND00086,earnings_expectations,Google Earnings: Alphabet Beats Q2 Revenue Estimates,positive,https://www.forbes.com,en,4,7
+CAND00087,earnings_expectations,"AMD earnings beat by $0.21, revenue topped estimates",positive,https://www.investing.com,en,4,8
+CAND00088,earnings_expectations,"Apple earnings beat by $0.17, revenue topped estimates",positive,https://www.investing.com,en,4,8
+CAND00089,earnings_expectations,"BlackBerry earnings beat, revenue topped estimates By Investing.com",positive,https://uk.investing.com,en,4,8
+CAND00090,earnings_expectations,"Boeing earnings missed by $7.01, revenue topped estimates",neutral,https://www.investing.com,en,4,8
+CAND00091,earnings_expectations,"Broadcom earnings beat by $0.03, revenue topped estimates",positive,https://ca.investing.com,en,4,8
+CAND00092,earnings_expectations,"Citigroup earnings beat by $0.49, revenue topped estimates",positive,https://www.investing.com,en,4,8
+CAND00093,earnings_expectations,"Costco earnings beat by $0.03, revenue topped estimates",positive,https://www.investing.com,en,4,8
+CAND00094,earnings_expectations,Diageo cuts sales forecast despite beating first-quarter estimate,negative,https://www.thetimes.com,en,4,8
+CAND00095,earnings_expectations,"Enbridge earnings beat by C$0.09, revenue topped estimates",positive,https://ca.investing.com,en,4,8
+CAND00096,earnings_expectations,"Gilead earnings beat by $0.01, revenue topped estimates",positive,https://ca.investing.com,en,4,8
+CAND00097,earnings_expectations,Intel (INTC) Beats Q4 Earnings and Revenue Estimates,positive,https://finance.yahoo.com,en,4,8
+CAND00098,earnings_expectations,"Intel earnings beat by $0.07, revenue topped estimates",positive,https://uk.investing.com,en,4,8
+CAND00099,earnings_expectations,"JPMorgan earnings beat by $0.37, revenue topped estimates",positive,https://in.investing.com,en,4,8
+CAND00100,earnings_expectations,"Microsoft earnings beat estimates, Azure revenue jumps 40%",positive,https://www.cnbc.com,en,4,8
+CAND00101,earnings_expectations,"Netflix earnings beat by $0.92, revenue topped estimates",positive,https://uk.investing.com,en,4,8
+CAND00102,earnings_expectations,Nvidia forecasts fourth-quarter revenue above Wall Street estimates,positive,https://www.theglobeandmail.com,en,4,8
+CAND00103,earnings_expectations,"Qualcomm earnings beat by $0.10, revenue topped estimates",positive,https://ca.investing.com,en,4,8
+CAND00104,earnings_expectations,"Quantum Stock Rigetti Q2 Earnings, Revenue Miss Estimates",negative,https://www.investors.com,en,4,8
+CAND00105,earnings_expectations,"Salesforce beats on earnings, issues better-than-expected revenue forecast",positive,https://www.cnbc.com,en,4,8
+CAND00106,earnings_expectations,"Synopsys earnings beat by $0.21, revenue topped estimates",positive,https://ca.investing.com,en,4,8
+CAND00107,earnings_expectations,WD-40 (WDFC) beats Q2 earnings and revenue estimates,positive,https://www.msn.com,en,4,8
+CAND00108,earnings_expectations,"Walmart earnings beat by $0.01, revenue topped estimates",positive,https://www.investing.com,en,4,8
+CAND00109,earnings_expectations,XOM Earnings: ExxonMobil Q4 2025 earnings beat estimates,positive,https://news.alphastreet.com,en,4,8
+CAND00110,earnings_expectations,"Alphabet A earnings beat by $0.18, revenue topped estimates",positive,https://www.investing.com,en,4,9
+CAND00111,earnings_expectations,Apple Q1 FY26 Earnings Beats Estimates; AAPL Earnings Decoded,positive,https://www.indmoney.com,en,4,9
+CAND00112,earnings_expectations,Apple slightly gains after earnings 🗽China sales misses estimates,neutral,https://www.xtb.com,en,4,9
+CAND00113,earnings_expectations,"Applied Digital earnings beat by $0.23, revenue topped estimates",positive,https://au.investing.com,en,4,9
+CAND00114,earnings_expectations,"Arista Networks earnings beat by $0.06, revenue topped estimates",positive,https://ca.investing.com,en,4,9
+CAND00115,earnings_expectations,"Brown Forman earnings beat by $0.11, revenue topped estimates",positive,https://ca.investing.com,en,4,9
+CAND00116,earnings_expectations,"Cboe Global earnings beat by $0.21, revenue topped estimates",positive,https://uk.investing.com,en,4,9
+CAND00117,earnings_expectations,Costco Wholesale Full Year 2024 Earnings: EPS Beats Expectations,positive,https://finance.yahoo.com,en,4,9
+CAND00118,earnings_expectations,Costco Wholesale Second Quarter 2025 Earnings: EPS Misses Expectations,negative,https://finance.yahoo.com,en,4,9
+CAND00119,earnings_expectations,"Dollar Tree earnings beat by $0.03, revenue topped estimates",positive,https://au.investing.com,en,4,9
+CAND00120,earnings_expectations,Earnings call transcript: JPMorgan beats Q4 2025 earnings expectations,positive,https://www.investing.com,en,4,9
+CAND00121,earnings_expectations,Earnings call transcript: WaterBridge’s Q4 2025 earnings miss expectations,negative,https://www.investing.com,en,4,9
+CAND00122,earnings_expectations,"Exxon Mobil earnings beat by $0.03, revenue topped estimates",positive,https://www.investing.com,en,4,9
+CAND00123,earnings_expectations,"Gentex Q3 Earnings Miss Estimates, 2025 Revenue Guidance Raised",neutral,https://www.zacks.com,en,4,9
+CAND00124,earnings_expectations,"Goldman Sachs earnings beat by $1.23, revenue topped estimates",positive,https://uk.investing.com,en,4,9
+CAND00125,earnings_expectations,"Immunitybio Inc earnings beat by $0.05, revenue topped estimates",positive,https://ca.investing.com,en,4,9
+CAND00126,earnings_expectations,"Meta Platforms earnings beat by $0.69, revenue topped estimates",positive,https://uk.investing.com,en,4,9
+CAND00127,earnings_expectations,"Morgan Stanley earnings beat by $0.27, revenue topped estimates",positive,https://uk.investing.com,en,4,9
+CAND00128,earnings_expectations,"Morgan Stanley earnings: EPS, revenues beat Wall Street expectations",positive,https://www.cnbc.com,en,4,9
+CAND00129,earnings_expectations,"Natwest Group earnings beat by $0.11, revenue topped estimates",positive,https://au.investing.com,en,4,9
+CAND00130,earnings_expectations,Pinterest Q3 Earnings Miss Estimates Despite Y/Y Revenue Growth,negative,https://finance.yahoo.com,en,4,9
+CAND00131,earnings_expectations,"Qualcomm reports earnings, revenue beat and issues strong forecast",positive,https://www.cnbc.com,en,4,9
+CAND00132,earnings_expectations,"Rocky Brands earnings beat by $0.45, revenue topped estimates",positive,https://uk.investing.com,en,4,9
+CAND00133,earnings_expectations,"Salesforce Inc earnings beat by $0.76, revenue topped estimates",positive,https://uk.investing.com,en,4,9
+CAND00134,earnings_expectations,"Simulations Plus earnings beat by $0.04, revenue topped estimates",positive,https://uk.investing.com,en,4,9
+CAND00135,earnings_expectations,"Walmart Q1 Earnings Beat Estimates, E-Commerce Growth Supports Sales",positive,https://finance.yahoo.com,en,4,9
+CAND00136,earnings_expectations,Advanced Micro Devices (AMD) Beats Q1 Earnings and Revenue Estimates,positive,https://finance.yahoo.com,en,4,10
+CAND00137,earnings_expectations,Advanced Micro Devices (AMD) Beats Q4 Earnings and Revenue Estimates,positive,https://finance.yahoo.com,en,4,10
+CAND00138,earnings_expectations,"Bank of America earnings beat by $0.11, revenue topped estimates",positive,https://uk.investing.com,en,4,10
+CAND00139,earnings_expectations,"Chevron Full Year 2024 Earnings: Revenues Beat Expectations, EPS Lags",positive,https://finance.yahoo.com,en,4,10
+CAND00140,earnings_expectations,Earnings call transcript: Simulations Plus Q2 2026 earnings beat expectations,positive,https://m.uk.investing.com,en,4,10
+CAND00141,earnings_expectations,"Exxon Mobil beats Q4 earnings, revenue forecasts but shares slip",positive,https://www.investing.com,en,4,10
+CAND00142,earnings_expectations,Goldman Sachs (GS) Beats Q4 EPS Expectations Despite Revenue Mis,positive,https://www.gurufocus.com,en,4,10
+CAND00143,earnings_expectations,"Google Q2 earnings beat analyst expectations on AI, cloud strength",positive,https://qz.com,en,4,10
+CAND00144,earnings_expectations,"HSBC lifts earnings target, annual profit dips but beats estimates",positive,https://www.reuters.com,en,4,10
+CAND00145,earnings_expectations,"Intel guides Q1 revenue and profit below estimates, stock drops",negative,https://www.proactiveinvestors.com,en,4,10
+CAND00146,earnings_expectations,"Meta shares pop on revenue and earnings beat, better-than-expected forecast",positive,https://www.cnbc.com,en,4,10
+CAND00147,earnings_expectations,Morgan Stanley misses analysts’ estimates on worse-than-expected investment banking revenue,negative,https://www.cnbc.com,en,4,10
+CAND00148,earnings_expectations,"Netflix Earnings Beat Expectations In Second Quarter, Boosting Revenue 16%",positive,https://www.forbes.com,en,4,10
+CAND00149,earnings_expectations,"Oracle shares slide on earnings and revenue miss, disappointing forecast",negative,https://www.cnbc.com,en,4,10
+CAND00150,earnings_expectations,"QBTS Q4 Earnings Miss Estimates, Revenue Rise Y/Y, Stock Climbs",positive,https://finance.yahoo.com,en,4,10
+CAND00151,earnings_expectations,RPM International surges as earnings beat estimates on sales growth,positive,https://www.msn.com,en,4,10
+CAND00152,earnings_expectations,"Target Beats Q4 Earnings Estimates, Eyes Sales Growth in FY2026",positive,https://finance.yahoo.com,en,4,10
+CAND00153,earnings_expectations,"Target First Quarter 2026 Earnings: EPS Beats Expectations, Revenues Lag",neutral,https://finance.yahoo.com,en,4,10
+CAND00154,earnings_expectations,"ZUMZ Q4 Earnings Beat Estimates, Strong Comparable Sales Drive Revenues",positive,https://finance.yahoo.com,en,4,10
+CAND00155,earnings_expectations,"Apple revenue forecast beats estimates, tariff costs projected at $1.1 billion",positive,https://www.reuters.com,en,4,11
+CAND00156,earnings_expectations,"BA owner IAG tanks as Q3 operating profit, revenue miss expectations",negative,https://www.sharecast.com,en,4,11
+CAND00157,earnings_expectations,"Delta forecasts earnings growth below estimates, orders first Boeing 787-10 jets",negative,https://www.theglobeandmail.com,en,4,11
+CAND00158,earnings_expectations,"Earnings call transcript: Citigroup’s Q3 2025 earnings beat forecasts, stock rises",positive,https://www.investing.com,en,4,11
+CAND00159,earnings_expectations,"Earnings call transcript: Intel beats Q4 2025 EPS forecast, stock steady",positive,https://www.investing.com,en,4,11
+CAND00160,earnings_expectations,Earnings call transcript: JPMorgan Q2 2025 beats forecasts with strong earnings,positive,https://www.investing.com,en,4,11
+CAND00161,earnings_expectations,"Earnings call transcript: Oracle’s Q2 2026 earnings beat expectations, stock falls",negative,https://www.investing.com,en,4,11
+CAND00162,earnings_expectations,Earnings call transcript: Playside Studios’ H1 2026 sees revenue beat expectations,positive,https://www.investing.com,en,4,11
+CAND00163,earnings_expectations,Earnings call transcript: Target Q4 2026 beats expectations with strong EPS,positive,https://www.investing.com,en,4,11
+CAND00164,earnings_expectations,"Earnings call transcript: Walmart Q2 2025 misses EPS forecast, stock dips",negative,https://www.investing.com,en,4,11
+CAND00165,earnings_expectations,"Earnings call transcript: Walmart Q4 2026 beats EPS forecast, stock rises",positive,https://www.investing.com,en,4,11
+CAND00166,earnings_expectations,Earnings call transcript: Winnebago Q2 2026 earnings beat estimates By Investing.com,positive,https://au.investing.com,en,4,11
+CAND00167,earnings_expectations,"Intel (NASDAQ:INTC) Releases Quarterly Earnings Results, Beats Expectations By $0.07 EPS",positive,https://www.marketbeat.com,en,4,11
+CAND00168,earnings_expectations,"Morgan Stanley, Goldman Sachs earnings beat analyst estimates in fourth quarter",positive,https://www.mpamag.com,en,4,11
+CAND00169,earnings_expectations,"Oracle stock soars 12% after earnings beat, big AI revenue forecast",positive,https://finance.yahoo.com,en,4,11
+CAND00170,earnings_expectations,"TD Bank Pushes Up Dividend After Underlying Earnings, Revenue Beat Expectations",positive,https://www.wsj.com,en,4,11
+CAND00171,earnings_expectations,"TJX Q3 Earnings and Sales Beat Estimates, Fiscal 2026 Guidance Raised",positive,https://finance.yahoo.com,en,4,11
+CAND00172,earnings_expectations,Weibo shares rise as Q3 earnings meet expectations despite revenue miss,neutral,https://www.investing.com,en,4,11
+CAND00173,earnings_expectations,"Adyen Shares Hit Two-Year Low After Revenue Miss, Flat Adjusted Earnings Forecast",negative,https://www.wsj.com,en,4,12
+CAND00174,earnings_expectations,"Apple sets quarterly revenue record as earnings broadly beat expectations, shares climb",positive,https://fortune.com,en,4,12
+CAND00175,earnings_expectations,"Bank of America Second Quarter 2025 Earnings: EPS Beats Expectations, Revenues Lag",positive,https://finance.yahoo.com,en,4,12
+CAND00176,earnings_expectations,Earnings call transcript: JPMorgan’s Q3 2025 earnings beat forecasts amid market challenges,positive,https://www.investing.com,en,4,12
+CAND00177,earnings_expectations,"Exxon Mobil beats Q4 earnings, revenue forecasts but shares slip By Investing.com",positive,https://za.investing.com,en,4,12
+CAND00178,earnings_expectations,JPMorgan profit beats estimates on Wall Street rebound; raises interest income forecast,positive,https://www.reuters.com,en,4,12
+CAND00179,earnings_expectations,Lightspeed upgrades yearly forecast with revenue beat in fiscal Q2 earnings |,positive,https://betakit.com,en,4,12
+CAND00180,earnings_expectations,Rollins shares tumble after Q4 profit and revenue miss estimates By Investing.com,negative,https://uk.investing.com,en,4,12
+CAND00181,earnings_expectations,"Tesla Q3 earnings miss analyst expectations, stock drops despite robotaxi expansion plans",negative,https://finance.yahoo.com,en,4,12
+CAND00182,earnings_expectations,Alphabet Beats Earnings Expectations As Annual Revenue Tops $400 Billion For First Time,positive,https://www.forbes.com,en,4,13
+CAND00183,earnings_expectations,"Earnings call transcript: Bank of America Q3 2025 earnings beat forecasts, stock rises",positive,https://www.investing.com,en,4,13
+CAND00184,earnings_expectations,"Salesforce Q4 Earnings Beat Estimates, Projects $46B Annual Revenue - News and Statistics",positive,https://www.indexbox.io,en,4,13
+CAND00185,earnings_expectations,"Wells Fargo profit beats estimates, cut to interest income forecast weighs on shares",positive,https://www.cnbc.com,en,4,13
+CAND00186,earnings_expectations,"Goldman Sachs Q4 earnings top consensus, revenue misses due to Apple Card markdown (GS:NYSE)",neutral,https://seekingalpha.com,en,4,14
+CAND00187,earnings_expectations,Apple reports sagging iPhone sales in China as first-quarter earnings barely beat Wall Street’s expectations,negative,https://www.theguardian.com,en,4,15
+CAND00188,earnings_expectations,Earnings scoreboard: 100% of S&P 500 earnings reports beat expectations and deliver Y/Y growth this week,positive,https://www.msn.com,en,4,16
+CAND00189,earnings_expectations,"Revenue Beats Expectations, Swings to Operating Profit: Why Is Applied Digital Still Facing a Market Selloff?",neutral,https://www.tradingkey.com,en,4,16
+CAND00190,earnings_expectations,Post-market plunge of 8%! AMD’s quarterly revenue and earnings both exceeded expectations—so why are investors still dissatisfied?,negative,https://news.futunn.com,en,4,17
+CAND00191,earnings_expectations,Target missed analysts' sales expectations by nearly half a billion dollars in the aftermath of DEI-related boycotts,negative,https://fortune.com,en,4,17
+CAND00192,earnings_expectations,AAPL stock price surges today after Apple earnings beat estimates – record iPhone sales and China growth d,positive,https://m.economictimes.com,en,4,18
+CAND00193,earnings_expectations,Amazon's earnings beat Q1 expectations,positive,https://www.aa.com.tr,en,3,5
+CAND00194,earnings_expectations,Chevron (CVX) Beats Q3 Earnings Estimates,positive,https://finance.yahoo.com,en,3,6
+CAND00195,earnings_expectations,Chewy (CHWY) Q4 Earnings Miss Estimates,negative,https://finance.yahoo.com,en,3,6
+CAND00196,earnings_expectations,"Melrose: robust H1, profit beat expectations",positive,https://www.hl.co.uk,en,3,6
+CAND00197,earnings_expectations,Tesla (TSLA) Beats Q4 Earnings Estimates,positive,https://finance.yahoo.com,en,3,6
+CAND00198,earnings_expectations,Wells Fargo misses Q4 revenue estimates,negative,https://www.cnbc.com,en,3,6
+CAND00199,earnings_expectations,CVS Earnings Beat Estimates. The Stock Fell.,negative,https://www.barrons.com,en,3,7
+CAND00200,earnings_expectations,Citigroup profit beats estimates as dealmaking rebounds,positive,https://www.reuters.com,en,3,7
+CAND00201,earnings_expectations,Concentrix Corporation (CNXC) Q2 Earnings Miss Estimates,negative,http://www.msn.com,en,3,7
+CAND00202,earnings_expectations,Constellation Brands Earnings Slide But Beat Expectations,positive,https://www.investors.com,en,3,7
+CAND00203,earnings_expectations,Exxon Mobil (XOM) Beats Q1 Earnings Estimates,positive,https://www.msn.com,en,3,7
+CAND00204,earnings_expectations,Microsoft Beats Earnings Expectations But Stock Slides,neutral,https://evrimagaci.org,en,3,7
+CAND00205,earnings_expectations,"Mobileye quarterly earnings miss estimates, shares slide",negative,https://www.proactiveinvestors.com,en,3,7
+CAND00206,earnings_expectations,"Netflix profit beats expectations, ad-tier subscriptions rise",positive,https://www.cnbc.com,en,3,7
+CAND00207,earnings_expectations,S&P Global (SPGI) Q4 Earnings Miss Estimates,negative,https://finance.yahoo.com,en,3,7
+CAND00208,earnings_expectations,TerraVest Beats Earnings Expectations And Hikes Dividend,positive,https://finimize.com,en,3,7
+CAND00209,earnings_expectations,Theravance's Q4 Earnings and Revenues Miss Estimates,negative,https://finance.yahoo.com,en,3,7
+CAND00210,earnings_expectations,Walmart Earnings Beat Estimates. The Stock Rises.,positive,https://news.futunn.com,en,3,7
+CAND00211,earnings_expectations,"Allegion's Q4 Earnings Miss Estimates, Revenues Increase Y/Y",negative,https://finance.yahoo.com,en,3,8
+CAND00212,earnings_expectations,"Alphabet's Q4 Earnings Beat Estimates, Revenues Increase Y/Y",positive,https://finance.yahoo.com,en,3,8
+CAND00213,earnings_expectations,"Amazon beats earnings expectations, sees market uncertainty ahead",positive,https://www.freightwaves.com,en,3,8
+CAND00214,earnings_expectations,Canada's Telus beats profit estimates on wireless growth,positive,https://www.aol.com,en,3,8
+CAND00215,earnings_expectations,Coca-Cola beats expectations with strong Q3 revenue gains,positive,https://www.foodnavigator.com,en,3,8
+CAND00216,earnings_expectations,Conagra Brands narrows guidance as earnings miss estimates,negative,https://www.investing.com,en,3,8
+CAND00217,earnings_expectations,Costco Earnings Beat Expectations as Membership Model Shines,positive,https://www.barrons.com,en,3,8
+CAND00218,earnings_expectations,Earnings call transcript: Oracle beats Q3 2026 estimates,positive,https://www.investing.com,en,3,8
+CAND00219,earnings_expectations,Exxon earnings beat estimates despite low oil prices,positive,https://www.cnbc.com,en,3,8
+CAND00220,earnings_expectations,"GoDaddy Q4 Earnings Beat Estimates, Revenues Increase Y/Y",positive,https://www.theglobeandmail.com,en,3,8
+CAND00221,earnings_expectations,IBM (IBM) Q4 Earnings and Revenues Beat Estimates,positive,https://finance.yahoo.com,en,3,8
+CAND00222,earnings_expectations,Intel continues to improve as revenue beats expectations,positive,https://www.techzine.eu,en,3,8
+CAND00223,earnings_expectations,"Microsoft earnings beat expectations, but the stock falls",negative,https://qz.com,en,3,8
+CAND00224,earnings_expectations,Morgan Stanley beats profit estimates on dealmaking windfall,positive,https://www.reuters.com,en,3,8
+CAND00225,earnings_expectations,"NCLH Q3 beats forecasts, full-year EPS guidance raised",positive,https://www.seatrade-cruise.com,en,3,8
+CAND00226,earnings_expectations,"Netflix Beats Q4 Earnings Estimates, Crosses 325M Subscribers",positive,https://finance.yahoo.com,en,3,8
+CAND00227,earnings_expectations,Palantir stock rallies after company beats earnings estimates,positive,https://www.cnbc.com,en,3,8
+CAND00228,earnings_expectations,Simply Good Foods (SMPL) Q2 Earnings Beat Estimates,positive,https://finance.yahoo.com,en,3,8
+CAND00229,earnings_expectations,Treasury yields fall after retail sales miss expectations,positive,https://www.cnbc.com,en,3,8
+CAND00230,earnings_expectations,Wells Fargo (NYSE:WFC) Misses Q4 CY2025 Revenue Estimates,negative,https://finance.yahoo.com,en,3,8
+CAND00231,earnings_expectations,"Alphabet earnings: Google beats expectations, bets big on AI",positive,https://qz.com,en,3,9
+CAND00232,earnings_expectations,Amazon Earnings Beat Expectations. Why the Stock Is Falling.,negative,https://www.barrons.com,en,3,9
+CAND00233,earnings_expectations,"Apple Q3 Earnings Beat Estimates, Services Drive Top-Line Growth",positive,https://finance.yahoo.com,en,3,9
+CAND00234,earnings_expectations,"Applied Materials Q1 Earnings Beat Estimates, Revenues Fall Y/Y",neutral,https://finance.yahoo.com,en,3,9
+CAND00235,earnings_expectations,Arm Holdings shares fall as licensing sales miss estimates,negative,https://www.reuters.com,en,3,9
+CAND00236,earnings_expectations,Bank of America First Quarter 2025 Earnings: Beats Expectations,positive,https://finance.yahoo.com,en,3,9
+CAND00237,earnings_expectations,"Berkshire Hathaway Q4 Earnings, Revenues Miss Estimates, Fall Y/Y",negative,https://finance.yahoo.com,en,3,9
+CAND00238,earnings_expectations,"Bio-Rad's Q4 Earnings Miss Estimates, Revenues Surpass, Stock Down",negative,https://finance.yahoo.com,en,3,9
+CAND00239,earnings_expectations,"BofA profit beats estimates on investment banking, trading strength",positive,https://www.reuters.com,en,3,9
+CAND00240,earnings_expectations,"Booking Holdings Q4 Earnings Beat Estimates, Revenues Rise Y/Y",positive,https://finance.yahoo.com,en,3,9
+CAND00241,earnings_expectations,Chevron Q4 profit beats estimates despite oil price pressure,positive,https://invezz.com,en,3,9
+CAND00242,earnings_expectations,"Chevron beats Q4 profit estimate, eyes Venezuela investment opportunities",positive,https://www.reuters.com,en,3,9
+CAND00243,earnings_expectations,"Chevron’s Earnings Miss Estimates, Squeezed by Lower Refining Margins",negative,https://www.investopedia.com,en,3,9
+CAND00244,earnings_expectations,"Consolidated Water 2025 Earnings Miss Estimates, Revenues Decrease Y/Y",negative,https://finance.yahoo.com,en,3,9
+CAND00245,earnings_expectations,"Costco (COST) Q2 FY26 earnings rise YoY, beat estimates",positive,https://news.alphastreet.com,en,3,9
+CAND00246,earnings_expectations,Costco Earnings Beat Estimates. Why the Stock Is Slipping.,negative,https://www.barrons.com,en,3,9
+CAND00247,earnings_expectations,Costco Earnings Beat Expectations. Why the Stock Is Dropping.,negative,https://www.barrons.com,en,3,9
+CAND00248,earnings_expectations,Exxon Mobil Q4 Earnings Beat Estimates on Higher Production,positive,https://finance.yahoo.com,en,3,9
+CAND00249,earnings_expectations,"Fiserv Q4 Earnings Beat Estimates, Revenues Decline 7% Y/Y",negative,https://www.theglobeandmail.com,en,3,9
+CAND00250,earnings_expectations,"Home BancShares’ first quarter net income, revenue beat estimates",positive,https://talkbusiness.net,en,3,9
+CAND00251,earnings_expectations,"JPMorgan (JPM) Beats Earnings Estimates, TD Cowen Reaffirms Buy",positive,https://finance.yahoo.com,en,3,9
+CAND00252,earnings_expectations,"Levi Strauss posts quarterly revenue miss, maintains annual forecast",negative,https://www.reuters.com,en,3,9
+CAND00253,earnings_expectations,"Mercury Systems Q2 Earnings Beat Estimates, Revenues Rise Y/Y",positive,https://finance.yahoo.com,en,3,9
+CAND00254,earnings_expectations,"Meta shares climb 10% on revenue beat, raised forecast",positive,https://www.cnbc.com,en,3,9
+CAND00255,earnings_expectations,Microsoft shares dip after quarterly revenue guidance misses expectations,negative,https://www.cnbc.com,en,3,9
+CAND00256,earnings_expectations,"Morgan Stanley profit beats estimates on wealth, shares rise",positive,https://www.reuters.com,en,3,9
+CAND00257,earnings_expectations,Nasdaq 100 Forecast: QQQ rises despite Tesla’s earnings miss,neutral,https://www.forex.com,en,3,9
+CAND00258,earnings_expectations,Nasdaq hits record high as Alphabet earnings beat estimates,positive,https://www.reuters.com,en,3,9
+CAND00259,earnings_expectations,NetApp Q3 Earnings Beat Estimates on Healthy Top-Line Growth,positive,https://www.theglobeandmail.com,en,3,9
+CAND00260,earnings_expectations,"Nvidia beats earnings expectations, even as bubble concerns mount",positive,https://www.rnz.co.nz,en,3,9
+CAND00261,earnings_expectations,"Oracle Q3 Earnings Beat Estimates, Cloud Growth Fuels Revenues",positive,https://finance.yahoo.com,en,3,9
+CAND00262,earnings_expectations,Oracle shares rise as company beats third-quarter revenue estimates,positive,https://www.theglobeandmail.com,en,3,9
+CAND00263,earnings_expectations,"Pinterest shares plummet 20% on earnings miss, weak forecast",negative,https://www.cnbc.com,en,3,9
+CAND00264,earnings_expectations,Rocket Lab Earnings Beat Expectations. Why the Stock Dropped.,negative,https://www.barrons.com,en,3,9
+CAND00265,earnings_expectations,Shell Misses Q4 Profit Expectations; BP In Breakout Territory,negative,https://www.investors.com,en,3,9
+CAND00266,earnings_expectations,"Shopify stock falls despite earnings beat, as forecast underwhelms",negative,https://thelogic.co,en,3,9
+CAND00267,earnings_expectations,"U.S. results help TD beat earnings estimates, hike dividend",positive,https://ca.finance.yahoo.com,en,3,9
+CAND00268,earnings_expectations,UnitedHealth raises full-year guidance as Q3 earnings beat estimates,positive,https://www.proactiveinvestors.co.uk,en,3,9
+CAND00269,earnings_expectations,Why this analyst is unfazed by Walmart's earnings miss,neutral,https://finance.yahoo.com,en,3,9
+CAND00270,earnings_expectations,"AMD Q4 Earnings Beat Estimates, Revenues Up Y/Y, Shares Fall",positive,https://finance.yahoo.com,en,3,10
+CAND00271,earnings_expectations,AMD's Data Center Revenue Hits Record High But Misses Expectations,neutral,https://www.investopedia.com,en,3,10
+CAND00272,earnings_expectations,"Adobe Q1 Earnings Beat Estimates, Revenues Up Y/Y, Shares Fall",negative,https://finance.yahoo.com,en,3,10
+CAND00273,earnings_expectations,Advanced Micro Devices (AMD) Q3 Earnings and Revenues Beat Estimates,positive,https://finance.yahoo.com,en,3,10
+CAND00274,earnings_expectations,"Bank of America Beats Estimates as Trading, Lending Revenue Outperform",positive,https://www.bloomberg.com,en,3,10
+CAND00275,earnings_expectations,Bank of America’s Earnings Beat Forecasts as Lending Picked Up,positive,https://www.barrons.com,en,3,10
+CAND00276,earnings_expectations,"CoreWeave shares plunge after Q4 losses, revenue outlook misses estimates",negative,https://ca.finance.yahoo.com,en,3,10
+CAND00277,earnings_expectations,"Earnings call transcript: AMD Q3 2025 beats forecasts, stock drops",negative,https://www.investing.com,en,3,10
+CAND00278,earnings_expectations,"Earnings call transcript: Costco Q1 2026 beats forecasts, stock rises",positive,https://www.investing.com,en,3,10
+CAND00279,earnings_expectations,"Earnings call transcript: IBM Q4 2025 beats forecasts, stock rises",positive,https://www.investing.com,en,3,10
+CAND00280,earnings_expectations,"Earnings call transcript: Navan’s Q4 2026 beats expectations, stock surges",positive,https://www.investing.com,en,3,10
+CAND00281,earnings_expectations,Exxon Mobil (XOM) Beats Q4 Earnings Expectations Amid Market Cha,positive,https://www.gurufocus.com,en,3,10
+CAND00282,earnings_expectations,"Exxon beats Q3 profit estimates on higher Guyana, Permian production",positive,https://www.reuters.com,en,3,10
+CAND00283,earnings_expectations,Goldman Sachs profit beats estimates as traders ride volatile markets,positive,https://www.reuters.com,en,3,10
+CAND00284,earnings_expectations,Google Earnings Beat As Internet Search Advertising Growth Tops Estimates,positive,https://www.investors.com,en,3,10
+CAND00285,earnings_expectations,Google to Double Spending as Earnings Beat Wall Street Expectations,positive,https://www.wsj.com,en,3,10
+CAND00286,earnings_expectations,Market Outlook: Big bank earnings beat expectations while semiconductors surge,positive,https://www.bnnbloomberg.ca,en,3,10
+CAND00287,earnings_expectations,McDonald’s earnings beat estimates as chain’s value push pays off,positive,https://www.cnbc.com,en,3,10
+CAND00288,earnings_expectations,"Microsoft 1Q earnings beat forecasts, shares fall on capex surge",negative,https://www.capitalbrief.com,en,3,10
+CAND00289,earnings_expectations,"Microsoft beats expectations with 18% revenue jump, but shares slide",positive,https://www.thehindu.com,en,3,10
+CAND00290,earnings_expectations,Microsoft earnings beat estimates but higher spending outlook disappoints street,neutral,https://www.cnbctv18.com,en,3,10
+CAND00291,earnings_expectations,"Morgan Stanley profit beats estimates on dealmaking boost, shares soar",positive,https://www.reuters.com,en,3,10
+CAND00292,earnings_expectations,"Philip Morris Q4 Earnings Beat Estimates, Revenues Grow 6.8% Y/Y",positive,https://finance.yahoo.com,en,3,10
+CAND00293,earnings_expectations,ServiceNow Earnings Beat Estimates. Why the Software Stock Is Tumbling.,negative,https://www.barrons.com,en,3,10
+CAND00294,earnings_expectations,Vimeo Hopes AI Will Help Drive Growth. Revenue Beat Forecasts.,positive,https://www.barrons.com,en,3,10
+CAND00295,earnings_expectations,Why Bank of America (BAC) Could Beat Earnings Estimates Again,neutral,https://finance.yahoo.com,en,3,10
+CAND00296,earnings_expectations,AMD Q4 Earnings Preview: Can it Beat Expectations Amid AI Concerns?,neutral,https://www.tastylive.com,en,3,11
+CAND00297,earnings_expectations,"Adidas shares slip as lifted outlook, record Q3 revenue miss forecasts",negative,https://uk.investing.com,en,3,11
+CAND00298,earnings_expectations,Amazon earnings beat estimates on surging cloud growth | Daily Sabah,positive,https://www.dailysabah.com,en,3,11
+CAND00299,earnings_expectations,Amazon misses Q4 profit estimates despite growth in cloud computing business,negative,https://koreajoongangdaily.joins.com,en,3,11
+CAND00300,earnings_expectations,"Amazon stock falls 8% on $200 billion spending forecast, earnings miss",negative,https://www.cnbc.com,en,3,11
+CAND00301,earnings_expectations,Apple and Amazon Earnings Beat Expectations on Cloud and Services Strength,positive,https://sg.finance.yahoo.com,en,3,11
+CAND00302,earnings_expectations,Assessing Equifax (EFX) Valuation After Earnings Beat And Upgraded Analyst Outlook,positive,https://simplywall.st,en,3,11
+CAND00303,earnings_expectations,Bank of America Earnings Beat Estimates. Its Stock Is Rising—for Once.,positive,https://www.barrons.com,en,3,11
+CAND00304,earnings_expectations,"BofA profit beats estimates as interest income hits record, trading surges",positive,https://www.reuters.com,en,3,11
+CAND00305,earnings_expectations,Bridgemarq Q4 Earnings Beat Meets Stock Decline: The Expectation Gap Explained,neutral,https://www.bitget.com,en,3,11
+CAND00306,earnings_expectations,Chevron Earnings Miss Estimates. Results Won’t Answer All of Investors’ Questions.,negative,https://www.barrons.com,en,3,11
+CAND00307,earnings_expectations,"Citigroup Q2 Earnings Beat Estimates on Y/Y NII Rise, Stock Up",positive,https://finance.yahoo.com,en,3,11
+CAND00308,earnings_expectations,"Citigroup profit beats estimates on trading, interest payments; CEO pushes overhaul",positive,https://www.reuters.com,en,3,11
+CAND00309,earnings_expectations,Earnings call transcript: Netflix beats Q4 2025 estimates with strong growth,positive,https://www.investing.com,en,3,11
+CAND00310,earnings_expectations,"Eaton shares slide after revenue miss, 2026 outlook trails estimates (ETN:NYSE)",negative,https://seekingalpha.com,en,3,11
+CAND00311,earnings_expectations,Exxon Earnings Beat Wall Street Expectations. Why The Stock Is Falling.,neutral,https://www.barrons.com,en,3,11
+CAND00312,earnings_expectations,"Ford's quarterly earnings miss forecasts, CEO sees stronger year in 2026",negative,https://www.reuters.com,en,3,11
+CAND00313,earnings_expectations,IBM Beats Q4 Earnings Estimates on Solid Cloud & AI Traction,positive,https://finance.yahoo.com,en,3,11
+CAND00314,earnings_expectations,IBM beats fourth-quarter revenue estimates as AI clamor boosts software demand,positive,https://www.reuters.com,en,3,11
+CAND00315,earnings_expectations,Intel Stock Crashes 11% as Weak Revenue Guidance Misses Analyst Targets,negative,https://www.tikr.com,en,3,11
+CAND00316,earnings_expectations,"Intel beats third-quarter profit estimates as cost cuts, investments pay off",positive,https://www.reuters.com,en,3,11
+CAND00317,earnings_expectations,Investor Outlook: Apple shares fall despite earnings beat and strong forecast,negative,https://www.bnnbloomberg.ca,en,3,11
+CAND00318,earnings_expectations,Investor Outlook: Netflix beats earnings expectations but shares continue to slide,negative,https://www.bnnbloomberg.ca,en,3,11
+CAND00319,earnings_expectations,Microsoft crushes earnings expectations and its market cap soars above $4T,positive,https://siliconangle.com,en,3,11
+CAND00320,earnings_expectations,"Morgan Stanley’s profit beats estimates on boost from dealmaking, stock trading",positive,https://www.bnnbloomberg.ca,en,3,11
+CAND00321,earnings_expectations,"RES Q4 Earnings Miss Estimates on Higher Costs, Revenues Rise Y/Y",negative,https://finance.yahoo.com,en,3,11
+CAND00322,earnings_expectations,Simply Good Foods Earnings Beat Estimates. Why the Stock Tumbled 18%.,negative,https://www.barrons.com,en,3,11
+CAND00323,earnings_expectations,"Stock Market Today, Feb. 18: Kenvue Rises After Earnings Beat Expectations",positive,https://www.theglobeandmail.com,en,3,11
+CAND00324,earnings_expectations,Why Morgan Stanley (MS) is Poised to Beat Earnings Estimates Again,neutral,https://finance.yahoo.com,en,3,11
+CAND00325,earnings_expectations,Will APA (APA) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00326,earnings_expectations,Will Acadia (ACAD) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00327,earnings_expectations,Will Accenture (ACN) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00328,earnings_expectations,Will Amazon (AMZN) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00329,earnings_expectations,Will Ameren (AEE) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00330,earnings_expectations,Will Aon (AON) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00331,earnings_expectations,Will Apple (AAPL) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00332,earnings_expectations,Will CBRE (CBRE) beat estimates again in its next earnings report?,neutral,https://www.msn.com,en,3,11
+CAND00333,earnings_expectations,Will Citigroup (C) Beat Estimates Again in Its Next Earnings Report?,neutral,https://www.zacks.com,en,3,11
+CAND00334,earnings_expectations,Will Corning (GLW) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00335,earnings_expectations,Will Costco (COST) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00336,earnings_expectations,Will Expedia (EXPE) Beat Estimates Again in Its Next Earnings Report?,neutral,https://ca.finance.yahoo.com,en,3,11
+CAND00337,earnings_expectations,Will Hubbell (HUBB) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00338,earnings_expectations,Will Maplebear (CART) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00339,earnings_expectations,Will Microsoft (MSFT) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00340,earnings_expectations,Will Popular (BPOP) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00341,earnings_expectations,Will Seagate (STX) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,11
+CAND00342,earnings_expectations,Amazon Beats Q2 Expectations as Revenue Rises 13% to Nearly $168 Billion,positive,https://variety.com,en,3,12
+CAND00343,earnings_expectations,Apple’s iPhone Sales Blow Past Estimates as Customers Raced to Beat Tariffs,positive,https://www.wsj.com,en,3,12
+CAND00344,earnings_expectations,Bank of America beats estimates on Q4 trading and lending revenue boost,positive,https://www.capitalbrief.com,en,3,12
+CAND00345,earnings_expectations,"BofA profit beats expectations on trading boost, sees higher 2025 interest income",positive,https://www.reuters.com,en,3,12
+CAND00346,earnings_expectations,Exxon beats earnings expectations even as lower oil prices weigh on profits,positive,https://www.cnbc.com,en,3,12
+CAND00347,earnings_expectations,"Facebook shares plunge more than 20% on weak earnings, big forecast miss",negative,https://www.cnbc.com,en,3,12
+CAND00348,earnings_expectations,"IBM beats profit estimates as AI shift boosts software performance, shares surge",positive,https://www.reuters.com,en,3,12
+CAND00349,earnings_expectations,Meta stock dubbed cheap by ‘historic norms’ as Q4 earnings beat estimates,positive,https://www.tradingview.com,en,3,12
+CAND00350,earnings_expectations,Micron Likely to Beat Q2 Earnings Estimates: Should You Buy the Stock?,neutral,https://www.theglobeandmail.com,en,3,12
+CAND00351,earnings_expectations,Morgan Stanley (NYSE:MS) Q4 2025 Earnings Beat Estimates on Strong Investment Banking,positive,https://www.chartmill.com,en,3,12
+CAND00352,earnings_expectations,Netflix earnings: Stock climbs as streaming giant beats expectations—But subscriber growth slows,positive,https://www.forbes.com.au,en,3,12
+CAND00353,earnings_expectations,Nvidia beats Wall Street expectations even as Trump tamps down China sales,positive,https://www.theguardian.com,en,3,12
+CAND00354,earnings_expectations,Oracle soars 30% on cloud growth projections even as earnings miss estimates,positive,https://www.cnbc.com,en,3,12
+CAND00355,earnings_expectations,"Walmart posts strong holiday growth, but earnings outlook falls short of estimates",negative,https://www.cnbc.com,en,3,12
+CAND00356,earnings_expectations,Wells Fargo raises interest income forecast as strong dealmaking drives profit beat,positive,https://www.reuters.com,en,3,12
+CAND00357,earnings_expectations,Will Bread Financial (BFH) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,12
+CAND00358,earnings_expectations,Will Bright Horizons (BFAM) beat estimates again in its next earnings report?,neutral,https://www.msn.com,en,3,12
+CAND00359,earnings_expectations,Will Constellation Brands (STZ) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,12
+CAND00360,earnings_expectations,Will Elevance Health (ELV) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,12
+CAND00361,earnings_expectations,Will Morgan Stanley (MS) beat estimates again in its next earnings report?,neutral,https://www.msn.com,en,3,12
+CAND00362,earnings_expectations,Will PennyMac Mortgage (PMT) Beat Estimates Again in Its Next Earnings Report?,neutral,https://ca.finance.yahoo.com,en,3,12
+CAND00363,earnings_expectations,Will Suncor Energy (SU) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,12
+CAND00364,earnings_expectations,Will Virtu Financial (VIRT) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,12
+CAND00365,earnings_expectations,Will Wells Fargo (WFC) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,12
+CAND00366,earnings_expectations,Assessing Victoria's Secret (VSCO) Valuation After Q4 Earnings Beat And Analyst Rating Updates,positive,https://simplywall.st,en,3,13
+CAND00367,earnings_expectations,"Boeing beats revenue expectations by a wide margin, as airplane deliveries nearly triple",positive,https://www.marketwatch.com,en,3,13
+CAND00368,earnings_expectations,"Chevron beats Q3 earnings expectations, powered by record production after Hess deal (CVX:NYSE)",positive,https://seekingalpha.com,en,3,13
+CAND00369,earnings_expectations,"Citigroup Q4 profit weighed by Russia exit charge, beats estimates on underlying basis",positive,https://www.msn.com,en,3,13
+CAND00370,earnings_expectations,Exxon earnings beat estimates as production growth softens impact of lower oil prices,positive,https://www.cnbc.com,en,3,13
+CAND00371,earnings_expectations,"Figma shares climb on earnings beat, but analysts note that AI risk remains",positive,https://www.cnbc.com,en,3,13
+CAND00372,earnings_expectations,How Investors Are Reacting To XPO (XPO) Beating Revenue And Operating Income Expectations,positive,https://simplywall.st,en,3,13
+CAND00373,earnings_expectations,Inox Wind Limited Just Missed Earnings - But Analysts Have Updated Their Models,neutral,https://simplywall.st,en,3,13
+CAND00374,earnings_expectations,JPMorgan Chase beats earnings expectations but the stock falls on interest income outlook,neutral,https://qz.com,en,3,13
+CAND00375,earnings_expectations,"JPMorgan earnings miss forecasts on Apple Card costs, Dimon warns markets 'underappreciate' risks",negative,https://finance.yahoo.com,en,3,13
+CAND00376,earnings_expectations,"JPMorgan profit beats estimates on trading boom, shares hit by weaker investment banking",positive,https://www.reuters.com,en,3,13
+CAND00377,earnings_expectations,"James Hardie shares rise as Q3 earnings beat estimates, guidance raised By Investing.com",positive,https://au.investing.com,en,3,13
+CAND00378,earnings_expectations,"Tesla Q4 Earnings Beat Estimates, Cybercab, Semi and Roaster on Track - eletric-vehicles.com",positive,https://eletric-vehicles.com,en,3,13
+CAND00379,earnings_expectations,Walmart Inc. stock rises on earnings beat and analyst upgrades amid retail resilience,positive,https://www.ad-hoc-news.de,en,3,13
+CAND00380,earnings_expectations,"Watch Stock Markets Analysis: Goldman Sachs Is 'Pro-Risk,' Sees US Earnings Beating Expectations",positive,https://www.bloomberg.com,en,3,13
+CAND00381,earnings_expectations,Wells Fargo beats profit estimates but CEO warns tariffs could slow economic growth,positive,https://www.reuters.com,en,3,13
+CAND00382,earnings_expectations,Will Chord Energy Corporation (CHRD) beat estimates again in its next earnings report?,neutral,https://www.msn.com,en,3,13
+CAND00383,earnings_expectations,Will Citizens Financial Group (CFG) beat estimates again in its next earnings report?,neutral,http://www.msn.com,en,3,13
+CAND00384,earnings_expectations,Will Janus Henderson Group (JHG) Beat Estimates Again in Its Next Earnings Report?,neutral,https://finance.yahoo.com,en,3,13
+CAND00385,earnings_expectations,"Yum Brands earnings miss estimates as Pizza Hut, KFC struggle in the U.S.",negative,https://www.cnbc.com,en,3,13
+CAND00386,earnings_expectations,AMD earnings beat expectations. Why it’s one of the S&P 500’s worst stocks today.,negative,https://www.msn.com,en,3,14
+CAND00387,earnings_expectations,Costco Beat Earnings Expectations in Q1. Here's Why It Could Still Struggle in 2026.,neutral,https://www.fool.com,en,3,14
+CAND00388,earnings_expectations,Intel (INTC) Expected to Beat Earnings Estimates: What to Know Ahead of Q4 Release,neutral,https://finance.yahoo.com,en,3,14
+CAND00389,earnings_expectations,Longfor Group Holdings Limited Just Missed Earnings - But Analysts Have Updated Their Models,neutral,https://simplywall.st,en,3,14
+CAND00390,earnings_expectations,Microsoft outlook leaves analysts split after earnings beat as capex and AI returns questioned,neutral,https://www.proactiveinvestors.com,en,3,14
+CAND00391,earnings_expectations,"Shell (SHEL) Q4 Revenue Beat Estimates, Delivers $43 Billion Operating Cash Flow in 2025",positive,https://finance.yahoo.com,en,3,14
+CAND00392,earnings_expectations,Should AtriCure’s Q4 Revenue Beat and Cautious Analyst Tone Reshape the ATRC Investment Narrative?,neutral,https://www.sahmcapital.com,en,3,14
+CAND00393,earnings_expectations,Tesla reports 20% drop in auto revenue as first-quarter results miss Wall Street estimates,negative,https://www.cnbc.com,en,3,14
+CAND00394,earnings_expectations,Walmart Stock Slips Over 4% As the Retail Giant Missed Fiscal Q2 Earnings Estimates,negative,https://www.tikr.com,en,3,14
+CAND00395,earnings_expectations,"Walmart's Ad Business Jumped 46% in Q2, but Missed Expectations on Per Share Earnings",negative,https://www.adweek.com,en,3,14
+CAND00396,earnings_expectations,Will Expectations for Another Earnings Beat Recast Align Technology's (ALGN) Digital Dental Growth Narrative?,neutral,https://simplywall.st,en,3,14
+CAND00397,earnings_expectations,A Look At WD-40 (WDFC) Valuation After Earnings Miss Dividend Declaration And New Analyst Coverage,neutral,https://simplywall.st,en,3,15
+CAND00398,earnings_expectations,"Amazon Earnings Beat Expectations, but a Sharp Rise in Capex Sends Shares Sliding from Highs!",neutral,https://www.tmgm.com,en,3,15
+CAND00399,earnings_expectations,Brookfield Asset Management Ltd. Recorded A 15% Miss On Revenue: Analysts Are Revisiting Their Models,negative,https://simplywall.st,en,3,15
+CAND00400,earnings_expectations,Chevron earnings beat Wall Street estimates as oil production hits record boosted by Hess acquisition,positive,https://www.cnbc.com,en,3,15
+CAND00401,earnings_expectations,Henderson Land Development Company Limited Just Missed Earnings - But Analysts Have Updated Their Models,negative,https://simplywall.st,en,3,15
+CAND00402,earnings_expectations,"IBM Q3 Earnings Beat Estimates, But Stock Falls on Cloud Growth - News and Statistics",negative,https://www.indexbox.io,en,3,15
+CAND00403,earnings_expectations,London Stock Exchange Group stock faces pressure as Q4 revenue forecast falls significantly below ex,negative,https://www.ad-hoc-news.de,en,3,15
+CAND00404,earnings_expectations,"Microsoft beats expectations, reveals Azure revenue for the first time — $75 billion a year",positive,https://www.geekwire.com,en,3,15
+CAND00405,earnings_expectations,"Target shares plunge 21% after discounter cuts forecast, posts biggest earnings miss in two years",negative,https://www.cnbc.com,en,3,15
+CAND00406,earnings_expectations,Why HP (HPQ) Is Down 6.4% After Beating Quarterly Revenue Expectations And Showing Operational Resilience,negative,https://simplywall.st,en,3,15
+CAND00407,earnings_expectations,How Investors May Respond To Range Resources (RRC) Earnings Beat Amid Insider Selling And Analyst Revisions,neutral,https://simplywall.st,en,3,16
+CAND00408,earnings_expectations,RH stock falls 17% overnight as Q4 earnings miss estimates: Why is retail still extremely bullish?,negative,https://www.msn.com,en,3,16
+CAND00409,earnings_expectations,Alphamin Resources (TSXV:AFM) Is Down 11.3% After Strong 2025 Earnings Beat Expectations Has The Bull Case Changed?,negative,https://simplywall.st,en,3,17
+CAND00410,earnings_expectations,BAC stock today falls despite Bank of America beating Q4 earnings estimates: What investors are worried ab,negative,https://m.economictimes.com,en,3,17
+CAND00411,earnings_expectations,"Goog stock: Alphabet Q4 earnings beat expectations lifts Google stock, driven by search, ads, and cloud gr",positive,https://m.economictimes.com,en,3,17
+CAND00412,earnings_expectations,INTC stock is plunging today despite Intel earnings that beat Wall Street expectations. Here are 2 reasons why,negative,https://www.fastcompany.com,en,3,18
+CAND00413,earnings_expectations,"Key facts: Boeing secures 30 737 MAX orders from Air India; Q4 earnings beat forecasts; India needs 3,300 new aircraft by 2044",positive,https://www.tradingview.com,en,3,22
+CAND00414,guidance,"Profit warning, inside information: UPM lowers its outlook due to lower deliveries in most businesses and decreased pulp prices",negative,https://www.upm.com,en,4,19
+CAND00415,guidance,"UnitedHealth raises guidance, expects lower exchange enrollment",positive,http://www.modernhealthcare.com,en,3,7
+CAND00416,guidance,Roblox stock downgraded by Roblox amid guidance cut,negative,https://in.investing.com,en,3,8
+CAND00417,guidance,Siemens Stock Forecast | Raised 2026 EPS Guidance,positive,https://capital.com,en,3,8
+CAND00418,guidance,"Bajaj Finance Falls Sharply on Increased Provisions, Guidance Cut",negative,https://www.whalesbook.com,en,3,9
+CAND00419,guidance,"BigBear.ai stock forecast: Debt cut, AI deals, 2026 guidance",neutral,https://capital.com,en,3,9
+CAND00420,guidance,Novo Nordisk Stock Forecast | 2026 Sales Guidance Cut,negative,https://capital.com,en,3,9
+CAND00421,guidance,"Novo Nordisk Stock Forecast | Guidance Cut, Buyback, Expansion",neutral,https://capital.com,en,3,9
+CAND00422,guidance,"Renault cuts margin outlook amid weak demand, increased Chinese competition",negative,https://www.autonews.com,en,3,10
+CAND00423,guidance,Target (TGT) Upgraded as Risk-Reward Improves Despite Lower Earnings Outlook,positive,https://finance.yahoo.com,en,3,10
+CAND00424,guidance,Treasury Wine Estates cuts profit guidance on lower US shipments,negative,https://www.just-drinks.com,en,3,10
+CAND00425,guidance,Block Stock Pre-Market (+24%): Raised '26 Guidance & 40% Headcount Cut,positive,https://www.trefis.com,en,3,11
+CAND00426,guidance,Block Stock Pre-Market (+24%): Raised Guidance & AI-Driven 40% Job Cuts,positive,https://www.trefis.com,en,3,11
+CAND00427,guidance,"De Beers cuts 2026 guidance amid market challenges, lower 2025 output",negative,https://www.miningweekly.com,en,3,11
+CAND00428,guidance,GoTo shares climb on Citi’s positive outlook and raised EBITDA guidance,positive,https://www.investing.com,en,3,11
+CAND00429,guidance,"Agilent Technologies edges lower on Q1 earnings, revenue miss despite guidance raise",neutral,https://www.investing.com,en,3,12
+CAND00430,guidance,"Darden Restaurants beats FQ3 outlook, raises profit and sales guidance for FY26",positive,https://www.msn.com,en,3,12
+CAND00431,guidance,"Darden Restaurants beats FQ3 outlook, raises profit and sales guidance for FY26 (DRI:NYSE)",positive,https://seekingalpha.com,en,3,13
+CAND00432,guidance,KRUS: Strong Q2 sales and margin gains drive raised guidance amid prudent outlook,positive,https://www.tradingview.com,en,3,13
+CAND00433,guidance,"ANZ Gold, Silver Price Forecast: Gold Supported On Fed Cuts Outlook, Silver To Lag",neutral,https://www.exchangerates.org.uk,en,3,14
+CAND00434,guidance,BUB: FY26 revenue guidance raised to $120–125M with double-digit growth and strong EBITDA outlook,positive,https://www.tradingview.com,en,3,14
+CAND00435,guidance,How Strong Q3 Earnings and Raised Guidance Could Shape HCA Healthcare’s (HCA) Long-Term Outlook,neutral,https://finance.yahoo.com,en,3,14
+CAND00436,guidance,"Is SoFi (SOFI) Still Undervalued After Surging Earnings, Growth Outlook, and Raised 2024 Guidance?",positive,https://finance.yahoo.com,en,3,14
+CAND00437,guidance,"Titan's weak Q2 and jewellery margin guidance cut weighs on shares, brokerages lower targets",negative,https://www.moneycontrol.com,en,3,14
+CAND00438,guidance,"Accenture Q2 Review: Guidance Raised, Yet Cautious Outlook Keeps Indian IT Read-Through Neutral — Motilal Oswal",neutral,https://www.ndtvprofit.com,en,3,16
+CAND00439,guidance,"Exclusive | Illumina to Cut $100 Million in Costs, Lowers Guidance Because of China Sales Ban",negative,https://www.wsj.com,en,3,16
+CAND00440,guidance,New Zealand Shares End Slightly Higher Amid US Fed Rate Cut Bets; Scales Raises 2025 Earnings Guidance,neutral,https://au.finance.yahoo.com,en,3,17
+CAND00441,guidance,Siemens AG Stock: Strong Q1 Results and Raised 2026 EPS Guidance Signal Robust Growth Outlook for In,positive,https://www.ad-hoc-news.de,en,3,17
+CAND00442,guidance,"Citi Cuts Nexteer (01316.HK) Earnings Forecast for This and Next Year by 20% to 31%, Lowers TP to HKD7.2",negative,https://www.aastocks.com,en,3,19
+CAND00443,guidance,"Goldman Sachs backs the 2026 U.S. stock earnings outlook: Over half of companies raise guidance, easing concerns about a weak earnings season.",positive,https://news.futunn.com,en,3,22
+CAND00444,guidance,"Barclays: Q1 beat, guidance raised",positive,https://www.hl.co.uk,en,2,5
+CAND00445,guidance,Pantoro punished for guidance cut,negative,https://www.miningnews.net,en,2,5
+CAND00446,guidance,Pound-to-Dollar Tactical Forecast: Cycling Lower,neutral,https://www.poundsterlinglive.com,en,2,5
+CAND00447,guidance,United Rentals raises full-year guidance,positive,https://www.internationalrentalnews.com,en,2,5
+CAND00448,guidance,Boohoo (Trading Update): profit guidance raised,positive,https://www.hl.co.uk,en,2,6
+CAND00449,guidance,Daimler Truck Holdings Cuts Full-Year Guidance,negative,https://www.wsj.com,en,2,6
+CAND00450,guidance,"Experian (HY Results): solid, guidance raised",positive,https://www.hl.co.uk,en,2,6
+CAND00451,guidance,ExxonMobil raises earnings outlook through 2030,positive,https://www.upstreamonline.com,en,2,6
+CAND00452,guidance,FactSet Raises FY 2026 Earnings Guidance,positive,https://nationaltoday.com,en,2,6
+CAND00453,guidance,Frasers Group Tumbles After Guidance Cut,negative,https://www.wsj.com,en,2,6
+CAND00454,guidance,Germany's Covestro cuts 2025 guidance again,negative,https://www.reuters.com,en,2,6
+CAND00455,guidance,Lithium miner Elevra cuts near-term guidance,negative,https://www.miningweekly.com,en,2,6
+CAND00456,guidance,Standard Chartered (Q3 Results): guidance raised,positive,https://www.hl.co.uk,en,2,6
+CAND00457,guidance,Anycolor shares slide on FY guidance cut,negative,https://www.investing.com,en,2,7
+CAND00458,guidance,AstraZeneca: guidance raised again after Q3 beat,positive,https://www.hl.co.uk,en,2,7
+CAND00459,guidance,CVS raises full-year guidance despite goodwill impairment,positive,https://www.sharecast.com,en,2,7
+CAND00460,guidance,Concerns raised over new US alcohol guidance,neutral,https://www.thespiritsbusiness.com,en,2,7
+CAND00461,guidance,Domino’s Pizza cuts full-year core profit guidance,negative,https://www.sharecast.com,en,2,7
+CAND00462,guidance,Euro-to-Dollar Week Ahead Forecast: Still Pointing Lower,neutral,https://www.poundsterlinglive.com,en,2,7
+CAND00463,guidance,Fed Cut and Guidance Captapults Dollar Higher,positive,https://www.poundsterlinglive.com,en,2,7
+CAND00464,guidance,Flutter Entertainment Shares Slip on Guidance Cut,negative,https://www.wsj.com,en,2,7
+CAND00465,guidance,Hikma Pharma tumbles as injectables guidance cut,negative,https://www.proactiveinvestors.co.uk,en,2,7
+CAND00466,guidance,Insight Enterprises Stock Slumps After Guidance Cut,negative,https://www.tipranks.com,en,2,7
+CAND00467,guidance,"Italy's Leonardo beats 2025 guidance, cuts debt",positive,https://uk.finance.yahoo.com,en,2,7
+CAND00468,guidance,Metlen Energy Shares Drop on Guidance Cut,negative,https://www.marketscreener.com,en,2,7
+CAND00469,guidance,"Netflix Q2 results: Earnings beat, raised outlook",positive,https://finance.yahoo.com,en,2,7
+CAND00470,guidance,"Next raises guidance, Aston Martin sales slide",neutral,https://dailybusinessgroup.co.uk,en,2,7
+CAND00471,guidance,Northern Star Gold Production Guidance Cut Analysis,negative,https://discoveryalert.com.au,en,2,7
+CAND00472,guidance,Novartis raises guidance after beating Q1 expectations,positive,https://www.reuters.com,en,2,7
+CAND00473,guidance,"Rolls-Royce: huge H1 profit beat, guidance raised",positive,https://www.hl.co.uk,en,2,7
+CAND00474,guidance,Sainsbury’s raises profit guidance as momentum continues,positive,https://www.thegrocer.co.uk,en,2,7
+CAND00475,guidance,Tesco (H1 results): full-year guidance slightly raised,positive,https://www.hl.co.uk,en,2,7
+CAND00476,guidance,TransDigm Raises 2026 Outlook On Strong Momentum,positive,https://www.theglobeandmail.com,en,2,7
+CAND00477,guidance,What the Target Guidance Cut Really Means,negative,https://www.fool.com,en,2,7
+CAND00478,guidance,World Bank cuts GDP forecast to 3%,negative,https://tribune.com.pk,en,2,7
+CAND00479,guidance,BAE Systems raises guidance after half-year profit beat,positive,https://www.investorschronicle.co.uk,en,2,8
+CAND00480,guidance,"Block shares plunge on revenue miss, slashed guidance",negative,https://www.cnbc.com,en,2,8
+CAND00481,guidance,CVS Health raises guidance despite $3.99 billion loss,neutral,https://www.healthcarefinancenews.com,en,2,8
+CAND00482,guidance,CVS Health raises guidance on strength of pharmacy,positive,https://www.healthcarefinancenews.com,en,2,8
+CAND00483,guidance,Colgate-Palmolive Cuts Outlook as Economic Uncertainty Spooks Shoppers,negative,https://www.wsj.com,en,2,8
+CAND00484,guidance,CoreWeave's Guidance Cut: A Buying Opportunity in Disguise?,neutral,https://www.marketbeat.com,en,2,8
+CAND00485,guidance,Deere Stock Jumps on Guidance Cut. Here’s Why.,positive,https://www.barrons.com,en,2,8
+CAND00486,guidance,Diageo cuts sales forecast despite beating first-quarter estimate,negative,https://www.thetimes.com,en,2,8
+CAND00487,guidance,Douglas raises full-year guidance ahead of Q3 results,positive,https://cosmeticsbusiness.com,en,2,8
+CAND00488,guidance,FedEx raises guidance again after strong earnings beat,positive,https://finance.yahoo.com,en,2,8
+CAND00489,guidance,Flying start to fiscal 2023 – Guidance raised,positive,https://press.siemens.com,en,2,8
+CAND00490,guidance,Fog of war clouds global rate cut outlook,neutral,https://www.politico.eu,en,2,8
+CAND00491,guidance,Fresenius raises earnings guidance after another quarterly beat,positive,https://www.reuters.com,en,2,8
+CAND00492,guidance,Hewlett Packard Enterprise Raises Fiscal 2026 EPS Outlook,positive,https://www.investors.com,en,2,8
+CAND00493,guidance,IWG shares slide 17% after profit guidance cut,negative,https://www.proactiveinvestors.com.au,en,2,8
+CAND00494,guidance,Iberdrola Earnings: 2026 Guidance Raised After Strong Earnings,positive,https://global.morningstar.com,en,2,8
+CAND00495,guidance,Jungheinrich stock tumbles after guidance cut By Investing.com,negative,https://uk.investing.com,en,2,8
+CAND00496,guidance,Kazatomprom raises guidance following increase in H1 output,positive,https://www.mining.com,en,2,8
+CAND00497,guidance,Levi Strauss Earnings: DTC Shift Drives Raised Outlook,positive,https://www.trefis.com,en,2,8
+CAND00498,guidance,"NCLH Q3 beats forecasts, full-year EPS guidance raised",positive,https://www.seatrade-cruise.com,en,2,8
+CAND00499,guidance,Northern Star Guidance Cut: Infrastructure Risks Hit Gold,negative,https://discoveryalert.com.au,en,2,8
+CAND00500,guidance,"PayPal Missed Estimates, Cut Guidance, And Swapped CEOs",negative,https://finimize.com,en,2,8
+CAND00501,guidance,Rezolve AI Delivers Transformational Growth and Raises Guidance,positive,https://www.ad-hoc-news.de,en,2,8
+CAND00502,guidance,"Rezolve AI tops 2025 earnings estimates, raises guidance",positive,https://finance.yahoo.com,en,2,8
+CAND00503,guidance,"SharkNinja Jumps On Strong Q2 Earnings, Raised Guidance",positive,https://www.investors.com,en,2,8
+CAND00504,guidance,Teck Resources lowers copper production guidance for 2025,negative,https://www.biv.com,en,2,8
+CAND00505,guidance,Thyssenkrupp Nucera Shares Under Pressure Following Guidance Cut,negative,https://www.ad-hoc-news.de,en,2,8
+CAND00506,guidance,Airbus raises dividend payout range and confirms 2025 guidance,positive,https://www.reuters.com,en,2,9
+CAND00507,guidance,Algonquin Power cuts 2027 guidance; stock sinks double digits,negative,https://ca.finance.yahoo.com,en,2,9
+CAND00508,guidance,Audi Cuts Guidance as Tariffs and Restructuring Hit Earnings,negative,https://www.wsj.com,en,2,9
+CAND00509,guidance,"Bayer says guidance cut driven by Crop Science, Pharma",negative,https://www.reuters.com,en,2,9
+CAND00510,guidance,Beacon Minerals Cut Gold Output Guidance After February Miss,negative,https://finimize.com,en,2,9
+CAND00511,guidance,Best Buy raises full-year guidance as consumers remain ‘resilient’,positive,https://www.retaildive.com,en,2,9
+CAND00512,guidance,Brussels issues guidance on law to cut packaging waste,neutral,https://www.euractiv.com,en,2,9
+CAND00513,guidance,Canaccord raises Generac stock price target on earnings outlook,positive,https://www.investing.com,en,2,9
+CAND00514,guidance,Cisco Stock Jumps on Revenue Beat and Raised Guidance,positive,https://www.investopedia.com,en,2,9
+CAND00515,guidance,Doubts raised over NHSE shared workforce guidance for pharmacists,neutral,https://www.thepharmacist.co.uk,en,2,9
+CAND00516,guidance,"ECB upgrades growth outlook, closing door to more cuts",neutral,https://www.reuters.com,en,2,9
+CAND00517,guidance,Erste Group raises XOM stock earnings forecast for 2026,positive,https://rollingout.com,en,2,9
+CAND00518,guidance,Euro-to-Dollar Forecast: EUR/USD Pressured as Markets Reassess Fed Cuts,neutral,https://www.currencynews.co.uk,en,2,9
+CAND00519,guidance,"Fed minutes flag 2026 rate cut, war clouds outlook",neutral,https://cryptorank.io,en,2,9
+CAND00520,guidance,FedEx Surges on Strong Q3 Earnings and Raised Guidance,positive,https://www.gurufocus.com,en,2,9
+CAND00521,guidance,"Gentex Q3 Earnings Miss Estimates, 2025 Revenue Guidance Raised",neutral,https://www.zacks.com,en,2,9
+CAND00522,guidance,Gerresheimer's shares fall 12% after it cuts guidance again,negative,https://www.reuters.com,en,2,9
+CAND00523,guidance,"Halma Shares Jump After Guidance Raise, Strong First-Half Results",positive,https://www.wsj.com,en,2,9
+CAND00524,guidance,Is Elastic Stock Worth Holding After FY26 Guidance Raise?,positive,https://finance.yahoo.com,en,2,9
+CAND00525,guidance,"Levi Strauss Posts Quarterly Earnings Beat, Raises Full-Year Guidance",positive,https://www.barrons.com,en,2,9
+CAND00526,guidance,"Meta shares climb 10% on revenue beat, raised forecast",positive,https://www.cnbc.com,en,2,9
+CAND00527,guidance,Mizuho raises RPM International stock price target on guidance,positive,https://www.investing.com,en,2,9
+CAND00528,guidance,"RBC Raised Centrica’s Target, Even As 2026 Guidance Softened",neutral,https://finimize.com,en,2,9
+CAND00529,guidance,Santos raises 2026 production guidance as projects ramp up,positive,https://petroleumaustralia.com.au,en,2,9
+CAND00530,guidance,SoFi Raises Guidance After Earnings Beat. The Stock Gains.,positive,https://www.barrons.com,en,2,9
+CAND00531,guidance,"Sodexo shares plunge 13% after earnings miss, guidance cut",negative,https://www.tradingview.com,en,2,9
+CAND00532,guidance,"TUI raises profit guidance on record hotel, cruise demand",positive,https://www.reuters.com,en,2,9
+CAND00533,guidance,"TransUnion Q3 2025 slides: Revenue growth accelerates, guidance raised",positive,https://www.investing.com,en,2,9
+CAND00534,guidance,"Ubisoft Plunges Most Ever on Guidance Cut, Canceled Games",negative,https://www.bloomberg.com,en,2,9
+CAND00535,guidance,"Under Armour Beats Q3 Expectations, Raises Fiscal 2026 Guidance",positive,https://nationaltoday.com,en,2,9
+CAND00536,guidance,UnitedHealth raises full-year guidance as Q3 earnings beat estimates,positive,https://www.proactiveinvestors.co.uk,en,2,9
+CAND00537,guidance,Volkswagen Stock: Guidance Cut After P911 Profit Warning (OTCMKTS:VWAGY),negative,https://seekingalpha.com,en,2,9
+CAND00538,guidance,"Wells Fargo Misses Net Interest Income Estimates, Cuts Guidance",negative,https://www.bloomberg.com,en,2,9
+CAND00539,guidance,"Workday shares surge on earnings beat, raised margin guidance",positive,https://www.proactiveinvestors.co.uk,en,2,9
+CAND00540,guidance,74Software: Guidance Increased as Operational Discipline Drives Significant Margin Expansion,positive,https://www.globenewswire.com,en,2,10
+CAND00541,guidance,AAR Corp. Stock (+9.9%): Q3 Earnings Beat and Raised Guidance,positive,https://www.trefis.com,en,2,10
+CAND00542,guidance,"AB Foods cuts profit forecast on Primark discounting, US weakness",negative,https://www.reuters.com,en,2,10
+CAND00543,guidance,"Amazon's stock soars 10% on third-quarter beat, increased spending guidance",positive,https://www.cnbc.com,en,2,10
+CAND00544,guidance,Bajaj Finance Shares Fall Over 7% After AUM Guidance Cut,negative,https://www.ndtvprofit.com,en,2,10
+CAND00545,guidance,"Beiersdorf shares drop 10% after Nivea miss, 2025 guidance cut",negative,https://www.investing.com,en,2,10
+CAND00546,guidance,"Block Cuts Full-Year Guidance After Drop in Quarterly Revenue, Profit",negative,https://www.wsj.com,en,2,10
+CAND00547,guidance,"Camurus reports Q4 revenue miss, lowers 2026 outlook By Investing.com",negative,https://uk.investing.com,en,2,10
+CAND00548,guidance,Carborundum Universal: Standalone Surge Amidst Global Woes; FY26 Guidance Cut,negative,https://www.whalesbook.com,en,2,10
+CAND00549,guidance,Cognizant's guidance cut holds a cautionary message for Indian IT,negative,https://www.moneycontrol.com,en,2,10
+CAND00550,guidance,"DFS.L Stock Today: January 21 Guidance Raised, New CFO Named",positive,https://meyka.com,en,2,10
+CAND00551,guidance,Digital Turbine (APPS): Exploring Valuation Following Raised 2026 Revenue Guidance,neutral,https://finance.yahoo.com,en,2,10
+CAND00552,guidance,Does Innodata's Raised Guidance Signal Stronger Growth Ahead in 2025?,positive,https://finance.yahoo.com,en,2,10
+CAND00553,guidance,Domino’s Pizza Stock Rises. Earnings Beat Is Overshadowing Guidance Cut.,positive,https://www.barrons.com,en,2,10
+CAND00554,guidance,"FIS Q2 2025 presentation: Revenue growth exceeds expectations, guidance raised",positive,https://www.investing.com,en,2,10
+CAND00555,guidance,General Mills Guidance Cut Tests Brand Strength And Valuation Story,negative,https://finance.yahoo.com,en,2,10
+CAND00556,guidance,General Mills' forecast cut from demand hit rattles packaged‑food stocks,negative,https://www.reuters.com,en,2,10
+CAND00557,guidance,Huntington Earnings: Strong Organic Loan Growth; Guidance Raised for 2025,positive,https://www.morningstar.com,en,2,10
+CAND00558,guidance,Impinj Stock Pre-Market (-24%): Drastic Q1 Guidance Cut Shocks Street,negative,https://www.trefis.com,en,2,10
+CAND00559,guidance,Interest rates cut but Bank of England halves growth forecast,positive,https://www.bbc.co.uk,en,2,10
+CAND00560,guidance,"Mediobanca shares slide 8% following revenue miss, NII guidance lowered",negative,https://www.reuters.com,en,2,10
+CAND00561,guidance,Molina cuts earnings guidance as costs rise in government programs,negative,https://www.healthcaredive.com,en,2,10
+CAND00562,guidance,"Nextpower Stock Pre-Market (+8.6%): Blowout Earnings, Raised Guidance & Buyback",positive,https://www.trefis.com,en,2,10
+CAND00563,guidance,Online Retailer Zalando Raises 2025 Guidance After About You Acquisition,positive,https://www.businessoffashion.com,en,2,10
+CAND00564,guidance,Power Grid Raises FY26 Capex Guidance To Rs 350 Billion,positive,https://www.constructionworld.in,en,2,10
+CAND00565,guidance,"Progress Software Q3 2025 slides: Revenue jumps 38%, guidance raised",positive,https://www.investing.com,en,2,10
+CAND00566,guidance,Rolls-Royce: FTSE 100 giant raises profit guidance after £1bn boost,positive,https://www.cityam.com,en,2,10
+CAND00567,guidance,Sainsbury's claims win over discounters as it raises profit guidance,positive,https://news.sky.com,en,2,10
+CAND00568,guidance,Sodexo cuts 2026 guidance after review of contracts and assets,negative,https://www.msn.com,en,2,10
+CAND00569,guidance,"Southwest Airlines Stock Sinks After Q1 Results Miss, Guidance Cut",positive,https://www.investopedia.com,en,2,10
+CAND00570,guidance,Syngene cuts guidance as key product loss weighs on growth,negative,https://www.livemint.com,en,2,10
+CAND00571,guidance,T-Mobile Q1 2025 slides: Industry-leading growth continues with raised guidance,positive,https://www.investing.com,en,2,10
+CAND00572,guidance,Tecnoglass (NYSE:TGLS): Assessing Valuation After Q3 Miss and Guidance Cut,negative,https://finance.yahoo.com,en,2,10
+CAND00573,guidance,U.S. Federal Reserve cuts key rate under cloudy economic outlook,positive,https://www.theglobeandmail.com,en,2,10
+CAND00574,guidance,"VeriSign Q3 2025 slides: domain base growth accelerates, guidance raised",positive,https://www.investing.com,en,2,10
+CAND00575,guidance,WHO issues guidance to address drastic global health financing cuts,neutral,https://www.who.int,en,2,10
+CAND00576,guidance,ADP Earnings Beat And Guidance Raise Contrast With Share Price Weakness,positive,https://finance.yahoo.com,en,2,11
+CAND00577,guidance,"AECOM Q1 2026 presentation: Record backlog drives raised guidance, shares climb",positive,https://www.investing.com,en,2,11
+CAND00578,guidance,"AIR.PA Stock Today, February 19: Guidance Cut on A320 Engine Shortage",negative,https://meyka.com,en,2,11
+CAND00579,guidance,ANGO: Raised full-year guidance after strong MedTech-driven revenue and margin expansion,positive,https://www.tradingview.com,en,2,11
+CAND00580,guidance,ATI’s Q1 Earnings: A Guidance Reset or a Beat-and-Raise Catalyst Awaits,neutral,https://www.bitget.com,en,2,11
+CAND00581,guidance,"Accenture raises full year guidance, to add more people in H2FY26",positive,https://www.fortuneindia.com,en,2,11
+CAND00582,guidance,"Adidas shares slip as lifted outlook, record Q3 revenue miss forecasts",negative,https://uk.investing.com,en,2,11
+CAND00583,guidance,Alcoa Price Target (NYSE:AA) Raised on Strong Earnings and 2026 Outlook,positive,https://www.asktraders.com,en,2,11
+CAND00584,guidance,Assessing Ciena (CIEN) Valuation After Raised Guidance And AI Infrastructure Tailwinds,positive,https://finance.yahoo.com,en,2,11
+CAND00585,guidance,Assessing Equifax (EFX) Valuation After Earnings Beat And Upgraded Analyst Outlook,positive,https://simplywall.st,en,2,11
+CAND00586,guidance,Atlas Energy (AESI) -7.0%: Q1 EBITDA Guidance Cut on Weather Woes,negative,https://www.trefis.com,en,2,11
+CAND00587,guidance,"Atmos Energy Q3 2025 slides: EPS growth accelerates, guidance raised again",positive,https://uk.investing.com,en,2,11
+CAND00588,guidance,"Australia dollar slips as RBA cuts rates, warns on global outlook",neutral,https://www.reuters.com,en,2,11
+CAND00589,guidance,Barclays Warns Hormuz Delay Could Raise Brent Crude Above $85 Forecast,neutral,https://www.globalbankingandfinance.com,en,2,11
+CAND00590,guidance,BioMarin Pharmaceutical (BMRN): Evaluating Valuation After Raised Guidance on Revenue Strength,positive,https://finance.yahoo.com,en,2,11
+CAND00591,guidance,"Blackbaud Q2 2025 slides: Organic revenue growth hits 6.8%, guidance raised",positive,https://www.investing.com,en,2,11
+CAND00592,guidance,BofA cuts India's Nifty 50 earnings forecast as stagflation fears rise,negative,https://www.tradingview.com,en,2,11
+CAND00593,guidance,"CaixaBank raises guidance after FY profit growth, record-low bad loan ratio",positive,https://www.sharecast.com,en,2,11
+CAND00594,guidance,Coty Stock Pre-Market (-15%): Sharp FY26 Guidance Cut on Margin Pressure,negative,https://www.trefis.com,en,2,11
+CAND00595,guidance,De Nora FY 2025 slides: margins expand despite revenue guidance cut,neutral,https://www.investing.com,en,2,11
+CAND00596,guidance,DocGo shares surge 15% on Q4 revenue beat and raised guidance,positive,https://www.investing.com,en,2,11
+CAND00597,guidance,Energiekontor (XTRA:EKT): Assessing Valuation After Earnings Guidance Cut and Project Delays,negative,https://simplywall.st,en,2,11
+CAND00598,guidance,"F5 Networks Q2 2025 slides: Systems revenue surges 27%, guidance raised",positive,https://www.investing.com,en,2,11
+CAND00599,guidance,FedEx (FDX) Stock Rises 9% After Earnings Beat and Guidance Raise,positive,https://www.mexc.com,en,2,11
+CAND00600,guidance,Finnair shares rise 12% after earnings beat and raised revenue outlook,positive,https://www.reuters.com,en,2,11
+CAND00601,guidance,"Fiserv 2026 Guidance Cut Is Larger Than Expected, Analysts Turn Bearish",negative,https://www.sahmcapital.com,en,2,11
+CAND00602,guidance,"GE Aerospace Stock Hits Record High on Strong Earnings, Raised Guidance",positive,https://www.investopedia.com,en,2,11
+CAND00603,guidance,"General Motors surges nearly 15% on earnings beat, raises full-year guidance",positive,https://fortune.com,en,2,11
+CAND00604,guidance,Guardian Pharmacy Earnings: Margin Expansion And Raised Guidance Signal Operational Strength,positive,https://www.trefis.com,en,2,11
+CAND00605,guidance,Guidewire Cloud And AI Wins Fuel Raised Guidance And ARR Growth,positive,https://simplywall.st,en,2,11
+CAND00606,guidance,"HCLTech Q3 results: Revenue up 6% QoQ, FY26 growth guidance raised",positive,https://www.cnbctv18.com,en,2,11
+CAND00607,guidance,Here’s Why Dollar Tree Raised EPS Guidance After a Strong Q3,positive,https://www.tikr.com,en,2,11
+CAND00608,guidance,India's $11B Chip Fund Boosts Kaynes Tech Amid Revenue Guidance Cuts,neutral,https://www.whalesbook.com,en,2,11
+CAND00609,guidance,Indigo Shares Hit 52-week Low As Goldman Sachs Cuts Earnings Outlook,negative,https://www.businessworld.in,en,2,11
+CAND00610,guidance,Infosys ADRs rise 2% in pre-market session as FY26 guidance raised,positive,https://www.msn.com,en,2,11
+CAND00611,guidance,Inside Information: Nokia lowers 2025 operating profit guidance due to currency,negative,https://www.nokia.com,en,2,11
+CAND00612,guidance,Jefferies lowers Textron stock price target to $110 on earnings outlook,negative,https://www.investing.com,en,2,11
+CAND00613,guidance,"Johnson Controls stock soars 8% after strong Q1 results, guidance raise",positive,https://www.investing.com,en,2,11
+CAND00614,guidance,Key facts: Intel Ships First 18A Products; Analysts Lower Earnings Forecast,negative,https://www.tradingview.com,en,2,11
+CAND00615,guidance,"Kura Sushi stock slips despite raised guidance, DA Davidson keeps buy",positive,https://in.investing.com,en,2,11
+CAND00616,guidance,"LatentView Analytics Reports 23.2% Revenue Growth, Raises FY Guidance to 19-20%",positive,https://scanx.trade,en,2,11
+CAND00617,guidance,Mizuho raises RPM International stock price target on guidance By Investing.com,positive,https://za.investing.com,en,2,11
+CAND00618,guidance,Nasdaq 100 Forecast: QQQ flirts with 25k on rate cut hopes,neutral,https://www.forex.com,en,2,11
+CAND00619,guidance,New CDC Guidance Cuts the Number of Recommended Vaccines for Kids,neutral,https://www.vaccineadvisor.com,en,2,11
+CAND00620,guidance,"Novo cuts guidance, names new CEO as obesity drug challenges mount",negative,https://www.biopharmadive.com,en,2,11
+CAND00621,guidance,Olympus Q3 FY2026 slides: Revenue guidance cut 2% amid ship-hold challenges,negative,https://www.investing.com,en,2,11
+CAND00622,guidance,"PYPL Shares Rise on Q3 Earnings Beat, 2025 EPS Guidance Raised",positive,https://www.zacks.com,en,2,11
+CAND00623,guidance,"Pagaya Technologies: Q3 2025 Beat, Guidance Raised, Bull Case Strengthened (PGY)",positive,https://seekingalpha.com,en,2,11
+CAND00624,guidance,Pets at Home boss exits after surprise cut to profit guidance,negative,https://www.thetimes.com,en,2,11
+CAND00625,guidance,RBC cuts four copper miners as Iran war reshapes commodity outlook,negative,https://uk.finance.yahoo.com,en,2,11
+CAND00626,guidance,Salesforce's Upgraded Outlook Highlights Resilience Despite Industry Downturn and Economic Concerns,positive,https://www.bitget.com,en,2,11
+CAND00627,guidance,ServiceNow Stock Up 4% After Guidance Raise On Agentic AI Growth,positive,https://www.forbes.com,en,2,11
+CAND00628,guidance,"Simply Good Foods' shares tumble on profit pressures, lowered FY26 guidance",negative,https://www.msn.com,en,2,11
+CAND00629,guidance,SoFi Stock (SOFI) Opinions on Q4 Earnings Beat and Guidance Raise,positive,https://www.quiverquant.com,en,2,11
+CAND00630,guidance,SoFi shares jump over 6% on record revenue and raised guidance,positive,https://www.msn.com,en,2,11
+CAND00631,guidance,Sodexo H1 FY2026 slides: margin pressure prompts guidance cut By Investing.com,negative,https://au.investing.com,en,2,11
+CAND00632,guidance,Spain's eDreams Shares Plunge Over 30% After It Cuts Earnings Guidance,negative,https://www.globalbankingandfinance.com,en,2,11
+CAND00633,guidance,TD pledges to cut billions in costs as it restores guidance,positive,https://www.canadianmortgagetrends.com,en,2,11
+CAND00634,guidance,"TJX Q3 Earnings and Sales Beat Estimates, Fiscal 2026 Guidance Raised",positive,https://finance.yahoo.com,en,2,11
+CAND00635,guidance,UnitedHealth cuts 2025 forecast after dealing with first-quarter care use spike,negative,https://apnews.com,en,2,11
+CAND00636,guidance,Vail Resorts Cuts 2026 Guidance Amid Worst Snowfall in 30 Years,negative,https://www.bloomberg.com,en,2,11
+CAND00637,guidance,"Vodafone Qatar H1 2025 slides reveal 12.1% profit growth, raised guidance",positive,https://www.investing.com,en,2,11
+CAND00638,guidance,Wegovy maker Novo Nordisk’s shares plunge as it cuts sales forecast,negative,https://www.theguardian.com,en,2,11
+CAND00639,guidance,"Whirlpool Cuts Dividend, Full-Year Profit Guidance as Tariffs Hurt Quarterly Results",negative,https://www.wsj.com,en,2,11
+CAND00640,guidance,Woodward Stock Pre-Market (+16%): Blowout Q1 Earnings & Raised FY26 Guidance,positive,https://www.trefis.com,en,2,11
+CAND00641,guidance,Xencor falls as royalty dispute with Astra leads to guidance cut,negative,https://www.msn.com,en,2,11
+CAND00642,guidance,"3M Q2 2025 presentation: EPS up 12%, guidance raised despite tariff headwinds",positive,https://www.investing.com,en,2,12
+CAND00643,guidance,"AECOM Q3 2025 slides: Margin targets exceeded, guidance raised on strong results",positive,https://www.investing.com,en,2,12
+CAND00644,guidance,Amazon raises spending forecast to $125 billion as third-quarter results top estimates,positive,https://www.cnbc.com,en,2,12
+CAND00645,guidance,"Angiography-derived quantitative flow ratio guidance of coronary intervention: measure twice, cut once",neutral,https://www.thelancet.com,en,2,12
+CAND00646,guidance,"Anglo American reports 10% drop in 2025 copper output, cuts 2026 guidance",negative,https://www.reuters.com,en,2,12
+CAND00647,guidance,Assessing CMS Energy (CMS) Valuation After Parnassus Addition And Raised Earnings Guidance,positive,https://simplywall.st,en,2,12
+CAND00648,guidance,BJ's Wholesale Club Stock Surges on Strong Q4 Results and Raised Guidance,positive,https://www.ad-hoc-news.de,en,2,12
+CAND00649,guidance,"BMW cuts 2025 earnings forecast on weak China sales, U.S. tariff costs",negative,https://www.autonews.com,en,2,12
+CAND00650,guidance,BTIG cuts Lennar stock price target to $77 on weaker earnings outlook,negative,https://www.investing.com,en,2,12
+CAND00651,guidance,BlackBerry stock falls over 20% as U.S. 'uncertainty' prompts sales guidance cut,negative,https://ca.finance.yahoo.com,en,2,12
+CAND00652,guidance,Campbell Soup (CPB) Valuation Check After Fiscal Q2 Miss And Guidance Cut,negative,https://simplywall.st,en,2,12
+CAND00653,guidance,Coty Inc. (COTY) Price Target Cut on Disappointing Quarterly Results and Guidance,negative,https://finance.yahoo.com,en,2,12
+CAND00654,guidance,DECK Stock Jumps 13% on Q3 Earnings Beat & Raised FY26 Guidance,positive,https://www.tradingview.com,en,2,12
+CAND00655,guidance,"ESCO Technologies Q2 2025 slides: Double-digit growth across key metrics, guidance raised",positive,https://uk.investing.com,en,2,12
+CAND00656,guidance,"Elevance cuts 2025 guidance as profit falls from higher ACA, Medicaid costs",negative,https://www.healthcaredive.com,en,2,12
+CAND00657,guidance,Ethereum Price Forecast: Increased derivatives demand spurred ETH's rise after US-Iran ceasefire,positive,https://www.fxstreet.com,en,2,12
+CAND00658,guidance,"Euro to Dollar Forecast 2025: RAISED to 1.20, 1.22 by End 2026",neutral,https://www.currencynews.co.uk,en,2,12
+CAND00659,guidance,Evercore ISI raises Constellation Brands stock price target on guidance By Investing.com,positive,https://m.za.investing.com,en,2,12
+CAND00660,guidance,"FDS: ASV growth, strong financials, and AI-driven productivity support raised 2026 guidance",positive,https://www.tradingview.com,en,2,12
+CAND00661,guidance,FIGS Stock (+24%) : Massive Earnings Beat and Raised Guidance Ignites Squeeze,positive,https://www.trefis.com,en,2,12
+CAND00662,guidance,GBP/USD Price Forecast: Pound Sterling Lower as Dollar Firms Ahead of Davos,neutral,https://www.currencynews.co.uk,en,2,12
+CAND00663,guidance,Gail (India) stock rating reiterated at Outperform by CLSA despite guidance cut,neutral,https://in.investing.com,en,2,12
+CAND00664,guidance,"Goldman cuts copper forecast on soft demand, warns of potential price declines",negative,https://uk.investing.com,en,2,12
+CAND00665,guidance,"HCA Healthcare shares jump on strong Q3 results, raised guidance By Investing.com",positive,https://uk.investing.com,en,2,12
+CAND00666,guidance,"Hilton, Hyatt And More Hotel Giants Cut 2025 Guidance, Citing Economic Uncertainty",negative,https://www.forbes.com,en,2,12
+CAND00667,guidance,How Upgraded Profitability Guidance At CooperCompanies (COO) Has Changed Its Investment Story,positive,https://simplywall.st,en,2,12
+CAND00668,guidance,Infosys Shares Surge 5% on FY26 Guidance Raise; Brokerages Set Higher Targets,positive,https://scanx.trade,en,2,12
+CAND00669,guidance,"Insulet Q3 2025 slides: revenue surges 30%, guidance raised amid international expansion",positive,https://uk.investing.com,en,2,12
+CAND00670,guidance,Investor Outlook: Costco earnings show how retailers use AI to cut waste,neutral,https://www.bnnbloomberg.ca,en,2,12
+CAND00671,guidance,Investor Outlook: Telus pauses dividend hikes amid mounting pressure to cut debt,negative,https://www.bnnbloomberg.ca,en,2,12
+CAND00672,guidance,"Ipsen Q3 2025 slides: Sales surge 13.7%, guidance raised amid pipeline expansion",positive,https://uk.investing.com,en,2,12
+CAND00673,guidance,JPMorgan profit beats estimates on Wall Street rebound; raises interest income forecast,positive,https://www.reuters.com,en,2,12
+CAND00674,guidance,KB Home Cuts Guidance as Middle East Instability Adds to Homebuyers’ Caution,negative,https://www.wsj.com,en,2,12
+CAND00675,guidance,Key facts: Shell cuts Q1 gas guidance; flags Middle East risk; buyback,neutral,https://www.tradingview.com,en,2,12
+CAND00676,guidance,Levi Strauss (LEVI.US) 4FQ Earnings and Revenue Beat; Raises FY EPS Guidance,positive,http://www.aastocks.com,en,2,12
+CAND00677,guidance,Medtronic cuts 2026 guidance on private equity charge related to MiniMed approval,negative,https://www.drugdeliverybusiness.com,en,2,12
+CAND00678,guidance,NKE Stock Today: April 3 — Big-Bank Downgrades After China Guidance Cut,negative,https://meyka.com,en,2,12
+CAND00679,guidance,Norden Q3 2025 slides: Profit hits USD 26 million as guidance raised,positive,https://www.investing.com,en,2,12
+CAND00680,guidance,Novo Nordisk Stock Falls After Earnings. It Cut Guidance on These Fears.,negative,https://www.barrons.com,en,2,12
+CAND00681,guidance,Oracle Q3 Review: FY27 Revenue Guidance Raised; OCI Margin Upside Potential Remains,positive,https://www.moomoo.com,en,2,12
+CAND00682,guidance,PI Industries shares fall over 9% after sharp revenue growth guidance cut,negative,https://www.cnbctv18.com,en,2,12
+CAND00683,guidance,Phibro Animal Health Stock Pre-Market (+14%): Blowout Earnings & Raised FY26 Guidance,positive,https://www.trefis.com,en,2,12
+CAND00684,guidance,Pound To Australian Dollar Price Forecast: Middle East Escalation Drives GBP Lower,negative,https://www.exchangerates.org.uk,en,2,12
+CAND00685,guidance,Pound to Dollar Forecast: Sterling Climbs as Fed Set to Cut Rates,neutral,https://www.currencynews.co.uk,en,2,12
+CAND00686,guidance,Reddit Encounters SEO Challenges as Updated Guidance Raises Questions About Long-Term Growth,negative,https://www.bitget.com,en,2,12
+CAND00687,guidance,"SBI raises loan growth guidance to 13-15% on trade deals, Budget impetus",positive,https://www.livemint.com,en,2,12
+CAND00688,guidance,"Sartorius 9M 2025 presentation: 7.5% sales growth, margins expand as guidance raised",positive,https://www.investing.com,en,2,12
+CAND00689,guidance,"Sika shares down after sales miss, 2025 guidance cut on China weakness",negative,https://uk.investing.com,en,2,12
+CAND00690,guidance,Simply Good Foods shares slide 12% after revenue miss and lowered outlook,negative,https://www.msn.com,en,2,12
+CAND00691,guidance,"Stock Crash: Lululemon shares tank 15% after another guidance cut, tariff impact",negative,https://www.cnbctv18.com,en,2,12
+CAND00692,guidance,Supreme Industries Q3 Results: Management cuts margin guidance for FY26; stock volatile,negative,https://www.cnbctv18.com,en,2,12
+CAND00693,guidance,"TDK Q3 FY2026 slides: Record sales drive 26.5% profit surge, guidance raised",positive,https://www.investing.com,en,2,12
+CAND00694,guidance,Tidewater (TDW) +9.8%: Q4 EPS Beats by 473% on Raised 2026 Guidance,positive,https://www.trefis.com,en,2,12
+CAND00695,guidance,UK guidance on digital ID for AML compliance answers and raises questions,neutral,https://www.biometricupdate.com,en,2,12
+CAND00696,guidance,Viatris (VTRS): Assessing Valuation After Raised 2025 Guidance and Strong Earnings Signals,positive,https://finance.yahoo.com,en,2,12
+CAND00697,guidance,Victoria’s Secret (VSCO): Assessing Valuation After Raised Sales Guidance and Q2 Results,neutral,https://simplywall.st,en,2,12
+CAND00698,guidance,Vienna Insurance Group 9M 2025 slides: 31% profit surge drives raised guidance,positive,https://uk.investing.com,en,2,12
+CAND00699,guidance,"Walmart raises full-year earnings forecast as grocery, online growth fuel higher sales",positive,https://www.cnbc.com,en,2,12
+CAND00700,guidance,Walmart’s stock rallies after CFO indicates profit outlook will likely be raised,positive,https://www.marketwatch.com,en,2,12
+CAND00701,guidance,Wells Fargo raises interest income forecast as strong dealmaking drives profit beat,positive,https://www.reuters.com,en,2,12
+CAND00702,guidance,"iRhythm Q1 2025 presentation: Revenue jumps 20%, guidance raised on market expansion",positive,https://www.investing.com,en,2,12
+CAND00703,guidance,A Look At Lululemon Athletica (LULU) Valuation After Raised Fourth Quarter Earnings Guidance,neutral,https://finance.yahoo.com,en,2,13
+CAND00704,guidance,Agilent Technologies (A) Raises 2025 Revenue Guidance With Strong Q3 US$160M Sales Surge,positive,https://simplywall.st,en,2,13
+CAND00705,guidance,"Artivion Q2 2025 slides: Revenue jumps 14%, guidance raised on strong product growth",positive,https://www.investing.com,en,2,13
+CAND00706,guidance,"Australia cuts interest rates to more than 2-year lows, downgrades economic growth forecast",positive,https://www.cnbc.com,en,2,13
+CAND00707,guidance,BofA raises Brent oil price forecast for 2026 on Strait of Hormuz disruptions,negative,https://uk.investing.com,en,2,13
+CAND00708,guidance,British Pound to Dollar Forecast: GBP Steady with Fed Cut Odds Above 85%,neutral,https://www.currencynews.co.uk,en,2,13
+CAND00709,guidance,"British Pound to Euro, Dollar Forecast: BoE Dovish Hold Fuels December Rate-Cut Bets",neutral,https://www.currencynews.co.uk,en,2,13
+CAND00710,guidance,"CACI Q2 FY2026 Earnings: EPS Beat, Raised Full-Year Guidance - News and Statistics",positive,https://www.indexbox.io,en,2,13
+CAND00711,guidance,Digital Realty Q1 2025 slides: record backlog and raised guidance highlight strong quarter,positive,https://www.investing.com,en,2,13
+CAND00712,guidance,"Dollar to Pound Forecast: ""Expect the USD to lower in the coming days""",neutral,https://www.currencynews.co.uk,en,2,13
+CAND00713,guidance,Encompass Health Stock Pre-Market (+15%): Strong Q4 EPS Beat & Raised FY26 Guidance,positive,https://www.trefis.com,en,2,13
+CAND00714,guidance,Engie jumps on raised guidance after $14.2B deal for UK Power Networks (ENGIY:OTCMKTS),positive,https://seekingalpha.com,en,2,13
+CAND00715,guidance,Euro to Dollar Forecast: Can EUR/USD Break 1.18 as Fed Cut Bets Grow?,neutral,https://www.currencynews.co.uk,en,2,13
+CAND00716,guidance,Euro to Dollar Forecast: EUR/USD to Break Above 1.17 on FED Rate Cut?,neutral,https://www.currencynews.co.uk,en,2,13
+CAND00717,guidance,Fed Rate Cuts in 2026? How an Oil Shock Is Complicating the Outlook,neutral,https://www.morningstar.com,en,2,13
+CAND00718,guidance,Glencore cuts 2026 copper growth forecast as struggling Chile mine drags down output,negative,https://www.fastmarkets.com,en,2,13
+CAND00719,guidance,"Greenbrier Fiscal Q2 Earnings, Revenue Fall; FY Guidance Cut; Shares Drop After Hours",negative,https://www.marketscreener.com,en,2,13
+CAND00720,guidance,How the Story for Paysafe Is Shifting After Analyst Downgrades and Guidance Cut,negative,https://finance.yahoo.com,en,2,13
+CAND00721,guidance,"Infosys revenue up 3.2% in Q3, raises FY26 guidance on large deal wins",positive,https://timesofindia.indiatimes.com,en,2,13
+CAND00722,guidance,Insecticides India shares decline over 2% after management cuts FY26 revenue growth guidance,negative,https://www.cnbctv18.com,en,2,13
+CAND00723,guidance,Is ACADIA’s Raised Guidance and Acquisition Plans Reshaping the Investment Narrative for ACAD?,positive,https://finance.yahoo.com,en,2,13
+CAND00724,guidance,"JSW Infra Shares Surge 7% Despite Volume Guidance Cut, Announces ₹9,000 Cr Capex",positive,https://scanx.trade,en,2,13
+CAND00725,guidance,"James Hardie shares rise as Q3 earnings beat estimates, guidance raised By Investing.com",positive,https://au.investing.com,en,2,13
+CAND00726,guidance,"Kaynes Tech shares fall 6% after FY26 revenue guidance cut to ₹4,100 crore",negative,https://www.cnbctv18.com,en,2,13
+CAND00727,guidance,"LEVI: Q1 delivered 9% organic revenue growth, margin expansion, and raised full-year guidance",positive,https://www.tradingview.com,en,2,13
+CAND00728,guidance,"Lilly Reports Q2 2024 Financial Results, Raises Full-Year Revenue Guidance by $3 Billion",positive,https://investor.lilly.com,en,2,13
+CAND00729,guidance,Nasdaq Composite opens lower as Broadcom guidance puts AI trade under pressure (SPX:),negative,https://seekingalpha.com,en,2,13
+CAND00730,guidance,Nasdaq Composite: Broadcom Powers Tech Surge to Record High on Rate Cut Forecast,positive,https://www.fxempire.com,en,2,13
+CAND00731,guidance,"Novo Nordisk Cuts 9,000 Jobs and Slashes Guidance. Why the Stock Is Rising.",negative,https://www.barrons.com,en,2,13
+CAND00732,guidance,Outlook for KRW and treasury bonds: Fed rate cut should boost the won,neutral,https://think.ing.com,en,2,13
+CAND00733,guidance,RTX Q3 2025 slides: Double-digit growth drives raised guidance as backlog hits $251B,positive,https://au.investing.com,en,2,13
+CAND00734,guidance,"Rezolve AI Plc. (RZLV) in a Phase of Robust Sales Growth, Raises Guidance",positive,https://finance.yahoo.com,en,2,13
+CAND00735,guidance,SBI Raises Its Credit Growth Guidance To 14-15% For FY26 Up From 12-13%,positive,https://www.ndtvprofit.com,en,2,13
+CAND00736,guidance,SBI raises FY26 credit growth guidance to 13-15% after Q3 profit jumps 25%,positive,https://www.cnbctv18.com,en,2,13
+CAND00737,guidance,"Saab Earnings: 2025 Guidance Raised, Driven by Order Momentum; We Maintain Our FVE",positive,https://global.morningstar.com,en,2,13
+CAND00738,guidance,Siemens Earnings: Cyclical Recovery in Automation Demand Supports Raise in Guidance; FVE Maintained,positive,https://global.morningstar.com,en,2,13
+CAND00739,guidance,Signify tumbles after Q3 sales miss and guidance cut amid weak U.S. demand,negative,https://in.investing.com,en,2,13
+CAND00740,guidance,Walmart raises guidance after another strong earnings report ahead of the holiday season,positive,https://finance.yahoo.com,en,2,13
+CAND00741,guidance,"Wells Fargo profit beats estimates, cut to interest income forecast weighs on shares",positive,https://www.cnbc.com,en,2,13
+CAND00742,guidance,A Look At AeroVironment (AVAV) Valuation After Earnings Miss Guidance Cut And Goodwill Impairment,negative,https://finance.yahoo.com,en,2,14
+CAND00743,guidance,A Look At Lincoln Educational (LINC) Valuation After Revenue Beat And Raised Full-Year Guidance,positive,https://simplywall.st,en,2,14
+CAND00744,guidance,A Look At Opera (OPRA) Valuation After Raised Guidance And Expanded MiniPay Tether Support,positive,https://finance.yahoo.com,en,2,14
+CAND00745,guidance,Amazon.com (AMZN) Set to Report Earnings as UBS Raises Price Target on AWS Outlook,positive,https://finance.yahoo.com,en,2,14
+CAND00746,guidance,B&M cuts profit guidance as it steps up investment in pricing and stock reset,negative,https://www.retailgazette.co.uk,en,2,14
+CAND00747,guidance,Barclays raises 2026 Brent forecast to $85 a barrel on Strait of Hormuz disruption,neutral,https://www.reuters.com,en,2,14
+CAND00748,guidance,Bitcoin and Ethereum Price Outlook as Citigroup Delays Fed Rate Cut Timeline to September,neutral,https://cryptonews.net,en,2,14
+CAND00749,guidance,Euro to Dollar Forecast: Fed Cut Bets and Bank Jitters Push Euro Rates Higher,neutral,https://www.currencynews.co.uk,en,2,14
+CAND00750,guidance,"Gloomy guidance and increased cloud competition weigh on Amazon's stock, despite solid earnings beat",negative,https://siliconangle.com,en,2,14
+CAND00751,guidance,Goldman Sachs raises Q2 Brent oil price forecast by $10 to $76 a barrel,positive,https://www.reuters.com,en,2,14
+CAND00752,guidance,How Investors May Respond To Meiji Holdings (TSE:2269) China Impairments And Profit Guidance Cut,negative,https://simplywall.st,en,2,14
+CAND00753,guidance,How Raised Earnings Guidance Amid Tariff Pressures Will Impact G-III Apparel Group (GIII) Investors,neutral,https://finance.yahoo.com,en,2,14
+CAND00754,guidance,How The Evolus (EOLS) Investment Story Is Shifting After Softer Guidance And Target Cuts,negative,https://uk.finance.yahoo.com,en,2,14
+CAND00755,guidance,IndiGo shares drop 3% on Q3 guidance cut; ₹45k cr M-cap wiped in Dec,negative,https://www.business-standard.com,en,2,14
+CAND00756,guidance,"Infosys Faces ₹8,600 Crore Mutual Fund Selloff Despite Strong Q3 Performance and Raised Guidance",negative,https://scanx.trade,en,2,14
+CAND00757,guidance,Infosys Q3 Results: FY26 constant currency revenue growth guidance raised; Labor code impacts profit,positive,https://www.cnbctv18.com,en,2,14
+CAND00758,guidance,Is PROG Holdings’ ASC 606-Driven Revenue Guidance Cut Reshaping The Investment Case For PRG?,negative,https://simplywall.st,en,2,14
+CAND00759,guidance,KBR Q3 Deep Dive: Revenue Guidance Cut as Award Delays and Contract Protests Weigh,negative,https://finance.yahoo.com,en,2,14
+CAND00760,guidance,"Levi Strauss raises sales guidance, says it will absorb some tariff costs for now",positive,https://www.cnbc.com,en,2,14
+CAND00761,guidance,"Lilly reports third-quarter 2025 financial results, highlights R&D pipeline momentum and raises 2025 guidance",positive,https://investor.lilly.com,en,2,14
+CAND00762,guidance,"Nasdaq 100, ASX 200 Outlook: Nasdaq Hits Fresh Highs As Fed Cut Bets Grow",positive,https://www.forex.com,en,2,14
+CAND00763,guidance,Nio CEO Says Q4 Profitability Target Remains Unchanged Despite Sales Guidance Cut - eletric-vehicles.com,negative,https://eletric-vehicles.com,en,2,14
+CAND00764,guidance,REC share falls 3% on AUM growth guidance cut for FY26; check details here,negative,https://www.business-standard.com,en,2,14
+CAND00765,guidance,"SBM Offshore HY 2025 presentation: Revenue jumps 26%, guidance raised on strong FPSO demand",positive,https://www.investing.com,en,2,14
+CAND00766,guidance,"Super Group to exit final US states, raises 2025 revenue guidance to $2 billlion",positive,https://igamingbusiness.com,en,2,14
+CAND00767,guidance,"Tata Motors PV shares skid 7% after Q2 Loss; JLR performance, guidance cut weigh",negative,https://www.fortuneindia.com,en,2,14
+CAND00768,guidance,US Dollar Forecast: USD Dump Extends on Fears of 3 Fed Cuts This Year,negative,https://www.forex.com,en,2,14
+CAND00769,guidance,"US-Iran war hits stock market: Citi, Nomura cut Nifty50 target prices; here’s the outlook",negative,https://timesofindia.indiatimes.com,en,2,14
+CAND00770,guidance,W.W. Grainger (GWW): Evaluating Valuation After Earnings Guidance Cut and Third Quarter Profit Pressures,negative,https://finance.yahoo.com,en,2,14
+CAND00771,guidance,3 Stocks That Raised Their EBITDA Margin Guidance to Up to 28% After Q3 Results,positive,https://tradebrains.in,en,2,15
+CAND00772,guidance,A Look At Builders FirstSource (BLDR) Valuation After Earnings Miss And Raised Full Year Guidance,neutral,https://simplywall.st,en,2,15
+CAND00773,guidance,A Look At Charles River Laboratories (CRL) Valuation After 2026 Guidance Cut And Planned Divestitures,negative,https://finance.yahoo.com,en,2,15
+CAND00774,guidance,Ad hoc - Temenos Announces Strong Q3-25 Results; FY-25 Guidance Raised Driven by Sales Momentum,positive,https://www.temenos.com,en,2,15
+CAND00775,guidance,"Elevance Health Q2 2025 slides: revenue up 14%, EPS guidance cut on higher medical costs",negative,https://www.investing.com,en,2,15
+CAND00776,guidance,FOMC Minutes Expected to Reveal Dovish Turn While Investors Seek Clear Guidance on Rate Cuts,neutral,https://www.bitget.com,en,2,15
+CAND00777,guidance,Gambling.com Group Limited (GAMB) PT Cut at Truist Following Q4 Results and Weak 2026 Guidance,negative,https://finance.yahoo.com,en,2,15
+CAND00778,guidance,General Mills cut its sales outlook to mark the fifth birthday of its ‘growth’ strategy,negative,https://www.marketwatch.com,en,2,15
+CAND00779,guidance,Goldman Sachs raises 2026 Brent crude average price forecast by $8 to $85 a barrel,positive,https://www.reuters.com,en,2,15
+CAND00780,guidance,"HCLTech Q3 Results: Margin Jump, Guidance Raised | Is The IT Giant Back On Track?",positive,https://www.businesstoday.in,en,2,15
+CAND00781,guidance,How Strong Q4 Results and Raised Guidance At Jabil (JBL) Have Changed Its Investment Story,positive,https://finance.yahoo.com,en,2,15
+CAND00782,guidance,How Strong U.S. Sales and Raised Guidance at Aritzia (TSX:ATZ) Has Changed Its Investment Story,positive,https://finance.yahoo.com,en,2,15
+CAND00783,guidance,How The Narrative Around Rigel Pharmaceuticals (RIGL) Is Shifting With Raised Guidance And Cash Flow,positive,https://finance.yahoo.com,en,2,15
+CAND00784,guidance,How Upgraded Guidance And Breakeven Path At Twist Bioscience (TWST) Has Changed Its Investment Story,positive,https://www.sahmcapital.com,en,2,15
+CAND00785,guidance,Is RadNet’s (RDNT) Upgraded Imaging Center Guidance Reframing the Role of AI in Its Strategy?,positive,https://simplywall.st,en,2,15
+CAND00786,guidance,Napco Security Tech stock surges on strong earnings beat and raised guidance amid rising cybersecuri,positive,https://www.ad-hoc-news.de,en,2,15
+CAND00787,guidance,Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44%,positive,https://www.cnbc.com,en,2,15
+CAND00788,guidance,Orion (OEC): Evaluating Valuation After 2025 EBITDA Guidance Cut and Strategic Shift Toward Cash Flow,negative,https://simplywall.st,en,2,15
+CAND00789,guidance,"PG&E Corporation stock rises on raised 2026 EPS guidance despite Q4 miss, signaling utility resilien",positive,https://www.ad-hoc-news.de,en,2,15
+CAND00790,guidance,RZLV: 2025 revenue soared to $46.8M with 543% H2 growth; 2026 guidance raised to $360M,positive,https://www.tradingview.com,en,2,15
+CAND00791,guidance,Raised Guidance and Strong Q3 Results Could Be a Game Changer for Zebra Technologies (ZBRA),positive,https://finance.yahoo.com,en,2,15
+CAND00792,guidance,"Ralph Lauren Corp stock surges on Q3 earnings beat, raised guidance and steady dividend commitment",positive,https://www.ad-hoc-news.de,en,2,15
+CAND00793,guidance,Ralph Lauren Reports First Quarter Fiscal 2026 Results Exceeding Expectations and Raises Full Year Outlook,positive,https://corporate.ralphlauren.com,en,2,15
+CAND00794,guidance,ServiceNow Price Target Cut to $185 by BTIG as FY26 Revenue Growth Guidance Draws Scrutiny,negative,https://247wallst.com,en,2,15
+CAND00795,guidance,"TD Cowen Raises Bank of America (BAC) PT Citing Solid Earnings Outlook, Favorable Repricing Trends",positive,https://finance.yahoo.com,en,2,15
+CAND00796,guidance,"Target shares plunge 21% after discounter cuts forecast, posts biggest earnings miss in two years",negative,https://www.cnbc.com,en,2,15
+CAND00797,guidance,Venture Global stock jumps after-hours after LNG guidance cut as U.S. gas market turns choppy,negative,https://ts2.tech,en,2,15
+CAND00798,guidance,"Walmart beats sales, raises outlook as higher-income consumers continue to turn to the retail giant",positive,https://finance.yahoo.com,en,2,15
+CAND00799,guidance,Wells Fargo Stock Slides as Bank Lowers Its Outlook for a Key Measure of Profitability,negative,https://www.investopedia.com,en,2,15
+CAND00800,guidance,Why Analysts Think Philip Morris Could Be Mispriced After Guidance Cut And Strong Q3 Results,neutral,https://finance.yahoo.com,en,2,15
+CAND00801,guidance,Why Belden (BDC) Is Up 7.1% After Record Q4 2025 Results And Raised 2026 Guidance,positive,https://finance.yahoo.com,en,2,15
+CAND00802,guidance,A Look At Johnson Controls International’s Valuation As Earnings Beat And Guidance Raise Attract New Interest,positive,https://simplywall.st,en,2,16
+CAND00803,guidance,A Look At Wolfspeed (WOLF) Valuation After Earnings Miss Guidance Cut And Sharp Share Price Drop,negative,https://finance.yahoo.com,en,2,16
+CAND00804,guidance,Boot Barn Holdings (BOOT) Is Up 14.8% After Raised Guidance And Upgrades From Jefferies And BofA,positive,https://simplywall.st,en,2,16
+CAND00805,guidance,Cardinal Health Raises Fiscal 2026 Outlook and Highlights Strategic Progress During J.P. Morgan Healthcare Conference Presentation,positive,https://newsroom.cardinalhealth.com,en,2,16
+CAND00806,guidance,Cardinal Health Reports Fourth Quarter and Fiscal Year 2024 Results and Raises Fiscal Year 2025 Guidance,positive,https://newsroom.cardinalhealth.com,en,2,16
+CAND00807,guidance,Crude oil prices rebound amid uncertainty over US-Iran ceasefire; Goldman Sachs cuts Q2 forecast to $90,neutral,https://www.livemint.com,en,2,16
+CAND00808,guidance,Does Raised 2026 Sales Guidance Powered by Rhode Shift The Bull Case For e.l.f. Beauty (ELF)?,positive,https://finance.yahoo.com,en,2,16
+CAND00809,guidance,"ESCO Q4 2025 Earnings: Revenue Up 17.3%, EPS Beats Estimates, Guidance Raised - News and Statistics",positive,https://www.indexbox.io,en,2,16
+CAND00810,guidance,Earnings Release and Financial Results Q1 FY 2026: Strong start to fiscal 2026 – Outlook raised,positive,https://press.siemens.com,en,2,16
+CAND00811,guidance,Forecast Cut: Can STRS withstand a market correction - Share Buyback & Real-Time Volume Surge Alerts,neutral,http://baoquankhu1.vn,en,2,16
+CAND00812,guidance,GoodRx’s Board Rebalance Amid Revenue Guidance Cut: A Signal of Transition or a Catalyst for Re-rating?,negative,https://www.bitget.com,en,2,16
+CAND00813,guidance,Is WiseTech’s AI-Driven Job Cuts And Steady Guidance Altering The Investment Case For WiseTech Global (ASX:WTC)?,neutral,https://finance.yahoo.com,en,2,16
+CAND00814,guidance,KBR Q2 Deep Dive: Revenue Miss and Guidance Cut Offset by Margin Strength and Pipeline Growth,negative,https://finance.yahoo.com,en,2,16
+CAND00815,guidance,Knorr-Bremse Publishes Preliminary Results for the Second Quarter of 2024 and Raises Guidance - Newsroom Knorr-Bremse,positive,https://newsroom.knorr-bremse.com,en,2,16
+CAND00816,guidance,Microchip Technology Raises Financial Guidance for Sales and EPS for Third Quarter of Fiscal Year 2026,positive,https://ir.microchip.com,en,2,16
+CAND00817,guidance,"PG Electroplast shares fall over 20% after company cuts revenue, profit growth guidance for current fiscal",negative,https://upstox.com,en,2,16
+CAND00818,guidance,TechnipFMC outlines $10B subsea inbound target and raises 2026 margin guidance as portfolio approach gains traction,positive,https://www.msn.com,en,2,16
+CAND00819,guidance,"Venture Global (VG): Reassessing Valuation After Profit Guidance Cut, Legal Disputes and New Long-Term LNG Deals",negative,https://finance.yahoo.com,en,2,16
+CAND00820,guidance,Vistry issues third profit warning in as many months with original forecast now slashed by 40%,negative,https://www.housingtoday.co.uk,en,2,16
+CAND00821,guidance,WATCH: Powell delivers remarks after Federal Reserve cuts key rate as government shutdown clouds economic outlook,positive,https://www.pbs.org,en,2,16
+CAND00822,guidance,Why Haemonetics (HAE) Raised 2026 Guidance After Strong Plasma And Tech Results And What It Signals,positive,https://finance.yahoo.com,en,2,16
+CAND00823,guidance,Why Maximus (MMS) Is Down 5.0% After Weak Quarter And Cut Guidance - And What's Next,negative,https://simplywall.st,en,2,16
+CAND00824,guidance,A Look At Digital Turbine (APPS) Valuation After Raised 2026 Guidance And Return To Quarterly Net Income,positive,https://simplywall.st,en,2,17
+CAND00825,guidance,Bitcoin (BTC) Price Prediction: FOMC April 28 Decision and Growing Rate Cut Odds Shape the Q2 Outlook,neutral,https://www.openpr.com,en,2,17
+CAND00826,guidance,Goldman Sachs slightly lowered its Q2 Brent crude oil forecast but noted it still faces upside risks.,neutral,https://news.futunn.com,en,2,17
+CAND00827,guidance,Infosys ADR Jumps 10 Percent on NYSE After Upgraded FY26 Revenue Growth Outlook and Strong Deal Wins,positive,https://www.cnbctv18.com,en,2,17
+CAND00828,guidance,KRUS: Strong Q2 sales and margin gains drive raised guidance amid robust expansion and prudent risk management,positive,https://www.tradingview.com,en,2,17
+CAND00829,guidance,Molina Healthcare Cuts Guidance for the Third Time. That’s Not the Only Reason the Stock Is Sinking.,negative,https://www.barrons.com,en,2,17
+CAND00830,guidance,"Tata Motors PV shares crash 6% today after weak Q2, JLR guidance cut; analysts flag margin, output...",negative,https://www.moneycontrol.com,en,2,17
+CAND00831,guidance,"Verizon raises financial guidance for adjusted EBITDA, adjusted EPS and free cash flow after strong Q2 performance",positive,https://www.verizon.com,en,2,17
+CAND00832,guidance,A Look At Take Two Interactive Software (TTWO) Valuation After Guidance Raise And GTA VI Launch Date Confirmation,positive,https://simplywall.st,en,2,18
+CAND00833,guidance,"Infosys Q3 Results: Stock Jumps 5% As Guidance Raised, Brokers Go Bullish | Buy The Rally Or Wait?",positive,https://www.businesstoday.in,en,2,18
+CAND00834,guidance,"Infosys, TCS to Coforge: IT stocks rally up to 4% after Accenture posts strong Q2 earnings, raises growth guidance",positive,https://www.livemint.com,en,2,19
+CAND00835,guidance,"Stock market outlook: How will Nifty50, BSE Sensex react to US Fed chair Powell's rate cut hints? What an",neutral,https://timesofindia.indiatimes.com,en,2,19
+CAND00836,guidance,5 RBI Policy takeaways: GDP forecast cut to 6.9% – Why Governor Malhotra is bracing for ‘West Asia Supply Shock’,neutral,https://www.financialexpress.com,en,2,20
+CAND00837,guidance,"Fed set to cut rates, but forecast for rest of 2025 is key to markets with politics clouding the picture",neutral,https://www.cnbc.com,en,2,20
+CAND00838,guidance,MGP Ingredients (MGPI) Is Down 26.8% After Major Impairment And 2026 Sales Guidance Cut - Has The Bull Case Changed?,negative,https://simplywall.st,en,2,20
+CAND00839,guidance,US Stock Movement | TSMC rises 5.7% pre-market after Goldman Sachs raises earnings forecast and sets price target at $550,positive,https://www.bitget.com,en,2,20
+CAND00840,guidance,Hecla Mining (HL) Is Up 5.0% After Record Q3 Results and Raised 2025 Output Guidance – Has The Bull Case Changed?,positive,https://finance.yahoo.com,en,2,21
+CAND00841,guidance,"Instacart exceeded expectations and increased its guidance, which was anticipated by the market—however, Jefferies believes there is still a difference in valuation.",positive,https://www.bitget.com,en,2,22
+CAND00842,guidance,Walmart stock tumbles on lower 2025 guidance given 'uncertain times' in the economy: 'We don't want to get out over our skis here',negative,https://fortune.com,en,2,23
+CAND00843,guidance,"Goldman Sachs has raised its average Brent crude oil price forecast for March-April to $110 per barrel, warning that high oil prices will persist until the end of 2027!",negative,https://news.futunn.com,en,2,29
+CAND00844,loss_direction,European stocks close higher as gold extends recent losses,neutral,https://www.cnbc.com,en,2,9
+CAND00845,loss_direction,"Earnings Snapshot: Boeing narrows Q2 loss, revenue up on increased deliveries",positive,https://www.msn.com,en,2,11
+CAND00846,loss_direction,"Nasdaq Composite Ends Week Higher on Strong U.S. Jobs Data, Reducing YTD Losses",positive,https://www.ad-hoc-news.de,en,2,13
+CAND00847,loss_direction,S&P 500 Gains & Losses Today: Ford Leads Automakers Higher; Deckers Stock Drops,neutral,https://finance.yahoo.com,en,2,13
+CAND00848,loss_direction,"Malaysian Shares Ended Lower, Mirroring Regional Losses; M N C Wireless' Shares Plunge 23%",neutral,https://news.futunn.com,en,2,14
+CAND00849,loss_direction,"Nvidia and other tech stocks lead Wall Street higher, erasing their losses for the week",positive,https://www.timescolonist.com,en,2,15
+CAND00850,loss_direction,"Opponents to Nexstar-Tegna merger warn of higher prices, loss of newsrooms if deal goes through",negative,https://www.courthousenews.com,en,2,15
+CAND00851,loss_direction,S&P 500 Gains & Losses Today: GM Stock Speeds Higher; Newmont Sinks as Gold Retreats,neutral,https://www.investopedia.com,en,2,15
+CAND00852,loss_direction,S&P 500 Gains and Losses Today: Index Ticks Higher Ahead of This Week's Fed Decision,neutral,https://www.investopedia.com,en,2,15
+CAND00853,loss_direction,"S&P 500 wins back all losses from Greenland dip, gold and silver surge even higher",positive,https://fortune.com,en,2,15
+CAND00854,loss_direction,Stock Market Crash: Key reasons why Nifty fell to its fifth straight weekly loss on Friday,negative,https://www.cnbctv18.com,en,2,16
+CAND00855,loss_direction,"Xiaoyu Yingtong (00139) issued a profit warning, expecting an annual pre-tax loss of no less than approximately HKD 1.9 billion, representing a year-on-year increase.",negative,https://www.moomoo.com,en,2,24
+CAND00856,margin,"Chevron’s Earnings Miss Estimates, Squeezed by Lower Refining Margins",negative,https://www.investopedia.com,en,2,9
+CAND00857,margin,74Software: Guidance Increased as Operational Discipline Drives Significant Margin Expansion,positive,https://www.globenewswire.com,en,2,10
+CAND00858,margin,"Renault cuts margin outlook amid weak demand, increased Chinese competition",negative,https://www.autonews.com,en,2,10
+CAND00859,margin,Tesla's Q1 2023 Earnings Show Lower Margins Amid Aggressive Price Cuts,negative,https://www.notateslaapp.com,en,2,11
+CAND00860,margin,"Chevron Posts Revenue, Profit Decline as Lower Natural Gas Prices Hit Margins",negative,https://www.investopedia.com,en,2,12
+CAND00861,margin,Assessing Walmart (WMT) Valuation As AI And Higher‑Margin Profit Engines Reshape The Business,neutral,https://finance.yahoo.com,en,2,13
+CAND00862,margin,"Titan's weak Q2 and jewellery margin guidance cut weighs on shares, brokerages lower targets",negative,https://www.moneycontrol.com,en,2,14
+CAND00863,margin,Exxon stock falls as earnings miss on lower natural gas prices and squeezed refining margins,negative,https://www.cnbc.com,en,2,15
+CAND00864,margin,Higher gold price eases pressure on producer margins | Post by Sarah Tomlinson | Gold Focus blog,positive,https://www.gold.org,en,2,17
+CAND00865,profit_direction,Newtrend Group Issues Profit Warning: Anticipates 60-80% Profit Decline for 2025 Due to Increased Costs and Lower Forex Gains 12,negative,https://www.minichart.com.sg,en,4,20
+CAND00866,profit_direction,Wells Fargo profit rises on higher interest income,positive,https://www.cnbc.com,en,3,8
+CAND00867,profit_direction,Westpac shares fall despite reporting $6.9bn profit and dividend increase,neutral,https://www.fool.com.au,en,3,10
+CAND00868,profit_direction,"Downer EDI earnings: Profit rises, margin tops target, order book grows",positive,https://www.fool.com.au,en,3,11
+CAND00869,profit_direction,Leadway Technology Issues Profit Warning as Costs Rise and Revenue Falls,negative,https://www.tipranks.com,en,3,11
+CAND00870,profit_direction,"ExxonMobil flags Middle East production decline, but profits still tipped to rise",neutral,https://petroleumaustralia.com.au,en,3,12
+CAND00871,profit_direction,U.S. GDP Q1’25 Decline Is Lessened; Price Strength Unrevised but Profits Decline,negative,https://www.haver.com,en,3,12
+CAND00872,profit_direction,Wetherspoon Confronts £100M Labour-Related Cost Pressure as Profit Decline Surpasses Revenue Increase,negative,https://www.bitget.com,en,3,12
+CAND00873,profit_direction,Bank of America Q4 2025 earnings beat: BAC profit rises as trading and net interest income jump,positive,https://ts2.tech,en,3,17
+CAND00874,profit_direction,The United Laboratories Issues Profit Warning as 2025 Profits Decline Due to Lower Intermediate Product and Bulk Medicine Prices,negative,https://www.minichart.com.sg,en,3,19
+CAND00875,profit_direction,"Macau’s Paradise Ent issues profit warning on 63.5% decline in FY25 profit due to satellite casino closure, lower LMG terminal sales - IAG",negative,https://asgam.com,en,3,23
+CAND00876,profit_direction,"JPMorgan Profits Beat Expectations, Shares Decline",positive,https://www.sharecafe.com.au,en,2,6
+CAND00877,profit_direction,Chevron Profit Falls on Lower Oil Prices,negative,https://www.wsj.com,en,2,7
+CAND00878,profit_direction,"Netflix profit beats expectations, ad-tier subscriptions rise",positive,https://www.cnbc.com,en,2,7
+CAND00879,profit_direction,"Texas Instruments forecasts lower-than-expected profit, shares fall",negative,https://www.aol.com,en,2,7
+CAND00880,profit_direction,Transense Technologies shares fall on profit warning,negative,https://www.proactiveinvestors.co.uk,en,2,7
+CAND00881,profit_direction,"Goldman Sachs’ profit rises on dealmaking, trading strength",positive,https://www.bnnbloomberg.ca,en,2,8
+CAND00882,profit_direction,Horizon issues profit warning as 2025 revenues fall,negative,https://www.internationalrentalnews.com,en,2,8
+CAND00883,profit_direction,"Qualitas shares surge on profit, increased dividend announcement",positive,https://www.fool.com.au,en,2,8
+CAND00884,profit_direction,"Tesla Profit Falls, Hurt by Plunging EV Sales",negative,https://www.wsj.com,en,2,8
+CAND00885,profit_direction,Tesla posts record revenue but profit falls short,negative,https://www.axios.com,en,2,8
+CAND00886,profit_direction,Tesla’s Profit Fell Sharply Last Year (Published 2025),negative,https://www.nytimes.com,en,2,8
+CAND00887,profit_direction,CN hikes dividend as fourth-quarter profit and revenue rise,positive,https://www.theglobeandmail.com,en,2,9
+CAND00888,profit_direction,"Cathay Pacific First-Half Profit Rose, Places Boeing Jet Order",positive,https://www.wsj.com,en,2,9
+CAND00889,profit_direction,"Exxon, Chevron Profits Fell Ahead of Tariff-Driven Oil Slump",negative,https://www.wsj.com,en,2,9
+CAND00890,profit_direction,"Morgan Stanley profit beats estimates on wealth, shares rise",positive,https://www.reuters.com,en,2,9
+CAND00891,profit_direction,Netflix Revenue and Profit Grow as Ad Business Accelerates,positive,https://www.wsj.com,en,2,9
+CAND00892,profit_direction,Novo Nordisk (NVO) Fell Following a Profit Warning Release,negative,https://finance.yahoo.com,en,2,9
+CAND00893,profit_direction,Realty Income Announces Common Stock Dividend Increase of 1.5%,neutral,https://www.realtyincome.com,en,2,9
+CAND00894,profit_direction,130th Common Stock Monthly Dividend Increase Declared by Realty Income,positive,https://www.realtyincome.com,en,2,10
+CAND00895,profit_direction,131st Common Stock Monthly Dividend Increase Declared by Realty Income,positive,https://www.realtyincome.com,en,2,10
+CAND00896,profit_direction,Baidu's Q4 Earnings Beat Estimates Despite Revenue and Profit Decline,neutral,https://finance.yahoo.com,en,2,10
+CAND00897,profit_direction,ExxonMobil and Chevron suffer profit falls on lower oil prices,negative,https://www.ft.com,en,2,10
+CAND00898,profit_direction,Goldman Sachs Profit Rises on Jump in Dealmaking and Lending,positive,https://www.wsj.com,en,2,10
+CAND00899,profit_direction,"Inpex H1 profit falls 14.5%, unveils dividend hike, share buybacks",positive,https://www.reuters.com,en,2,10
+CAND00900,profit_direction,"Millennium Bcp's Profit Rises 12% to Record, Plans Dividend Hike",positive,https://www.globalbankingandfinance.com,en,2,10
+CAND00901,profit_direction,Profit warnings issued by UK-listed companies increase by 20% year-on-year,negative,https://www.ey.com,en,2,10
+CAND00902,profit_direction,Stellantis and Aston Martin shares fall sharply on profit warnings,negative,https://www.ft.com,en,2,10
+CAND00903,profit_direction,"Wells Fargo Profit Rises in Q1, Boosted by Lower Expenses",positive,https://www.wsj.com,en,2,10
+CAND00904,profit_direction,Bank of America profit rises as trading surges in volatile markets,positive,https://www.theglobeandmail.com,en,2,11
+CAND00905,profit_direction,"Berkshire Hathaway's shares fall after $3.8 billion write-down, operating profit weakness",negative,https://www.reuters.com,en,2,11
+CAND00906,profit_direction,Byrna Technologies (NASDAQ: BYRN) grows Q1 2026 sales as profit eases,positive,https://www.stocktitan.net,en,2,11
+CAND00907,profit_direction,Citigroup (C) Announces US$4 Billion Q2 Income With Increased US$0.60 Dividend,positive,https://finance.yahoo.com,en,2,11
+CAND00908,profit_direction,Cost of living: Walmart issues profit warning as price rises hit,negative,https://www.bbc.com,en,2,11
+CAND00909,profit_direction,Eagle Nice (International) Holdings (00599.HK) Expects Nine-Month Pre-tax Profit to Decline,negative,https://www.aastocks.com,en,2,11
+CAND00910,profit_direction,"Earnings call transcript: Costco Q3 2025 sees profit rise, stock dips",neutral,https://www.investing.com,en,2,11
+CAND00911,profit_direction,"ExxonMobil Profit Probably Doubled in Q3 as Gas, Oil Prices Surged",positive,https://www.investopedia.com,en,2,11
+CAND00912,profit_direction,Kasen International Warns of Sharp Profit Decline on Slower Property Deliveries,negative,https://www.tipranks.com,en,2,11
+CAND00913,profit_direction,Tesla profit plunges as sales fall and AI expenses pile up,negative,https://www.axios.com,en,2,11
+CAND00914,profit_direction,Tesla reports declines in revenue and profit amid shaky financial year,negative,https://www.theguardian.com,en,2,11
+CAND00915,profit_direction,Wells Fargo Earnings: Bank Profit Rises After Lifting of Asset Cap,positive,https://www.wsj.com,en,2,11
+CAND00916,profit_direction,"Wells Fargo earnings: Revenues, net interest income fall annually in Q1",negative,https://www.cnbc.com,en,2,11
+CAND00917,profit_direction,"AMD’s revenue and profit jump again, but stock falls as margins disappoint",negative,https://siliconangle.com,en,2,12
+CAND00918,profit_direction,Aviva going from strength to strength with profit rise and dividend hike,positive,https://www.ii.co.uk,en,2,12
+CAND00919,profit_direction,BT raises dividend as profits rise after major cost-cutting drive pays off,positive,https://www.thisismoney.co.uk,en,2,12
+CAND00920,profit_direction,Bank of America Stock Jumps as Investors Shrug Off Rates-Driven Profit Decline,positive,https://www.barrons.com,en,2,12
+CAND00921,profit_direction,Big Banks’ Profits Set to Rise Even as ‘Wall of Worry’ Looms,neutral,https://www.barrons.com,en,2,12
+CAND00922,profit_direction,"Chevron Posts Revenue, Profit Decline as Lower Natural Gas Prices Hit Margins",negative,https://www.investopedia.com,en,2,12
+CAND00923,profit_direction,"Elevance cuts 2025 guidance as profit falls from higher ACA, Medicaid costs",negative,https://www.healthcaredive.com,en,2,12
+CAND00924,profit_direction,"Goldman Sachs Group (GS) Reports Increased Q2 Net Income of US$3,723 Million",positive,https://finance.yahoo.com,en,2,12
+CAND00925,profit_direction,JPMorgan Chase profit falls after $2.9 billion fee from regional bank rescues,negative,https://www.cnbc.com,en,2,12
+CAND00926,profit_direction,Nifty aggregate profit to fall in Q4 but expect a better FY27,negative,https://m.economictimes.com,en,2,12
+CAND00927,profit_direction,"TCS Q4 earnings: Net profit rises 12%, revenue at Rs 70,698 crore",positive,https://www.msn.com,en,2,12
+CAND00928,profit_direction,Walmart profits rise in Q2 as more U.S. shoppers search for deals,positive,https://www.cbsnews.com,en,2,12
+CAND00929,profit_direction,Wizz Air shares fall 8% after Middle East crisis triggers profit warning,negative,https://www.investing.com,en,2,12
+CAND00930,profit_direction,Zenith Bank’s annual profit improves slightly as lender plans twofold dividend increase,positive,https://www.premiumtimesng.com,en,2,12
+CAND00931,profit_direction,BP warns of fourth quarter profit hit as production and refining margins fall,negative,https://energy.economictimes.indiatimes.com,en,2,13
+CAND00932,profit_direction,Bank of America registers rise in Global Markets net income in Q2 2025,positive,https://fxnewsgroup.com,en,2,13
+CAND00933,profit_direction,"EA’s Earnings Disappoint: Bookings Rise Faster Than Profits, Signaling a Potential Reset Opportunity",negative,https://www.bitget.com,en,2,13
+CAND00934,profit_direction,"Exxon Mobil's first-quarter profit rises, even after $3.4 billion hit from Russia charge",positive,https://www.cnbc.com,en,2,13
+CAND00935,profit_direction,Greentown China Holdings (SEHK:3900) Valuation After 95% Profit Guidance Decline And Destocking Efforts,negative,https://simplywall.st,en,2,13
+CAND00936,profit_direction,JPMorgan Chase beats earnings expectations but the stock falls on interest income outlook,neutral,https://qz.com,en,2,13
+CAND00937,profit_direction,"Microsoft Profit Jumps 10%, but Cloud Computing Grows Less Than Expected (Published 2024)",positive,https://www.nytimes.com,en,2,13
+CAND00938,profit_direction,"US bank profits to rise on deals, but Iran war fuels outlook uncertainty",neutral,https://www.reuters.com,en,2,13
+CAND00939,profit_direction,Bank of America profit rises on investment banking strength amid flurry of mega deals,positive,https://www.theglobeandmail.com,en,2,14
+CAND00940,profit_direction,"Tesla profit falls short despite record sales, hit by higher costs and fading credits",negative,https://www.reuters.com,en,2,14
+CAND00941,profit_direction,WLFI Falls 20.6% Over Week As Big Players Take Profits Amid Crypto Market Fragility,negative,https://blockchainreporter.net,en,2,14
+CAND00942,profit_direction,"Walmart shares fall as higher costs, supply chain problems and inventories eat into profits",negative,https://www.cnbc.com,en,2,14
+CAND00943,profit_direction,Aston Martin shares fall 10% as luxury carmaker issues fresh profit warning on tariff turmoil,negative,https://www.cnbc.com,en,2,15
+CAND00944,profit_direction,"Bank of America shares fall after company reports lower fourth-quarter profit, hit by regulatory charge",negative,https://www.cnbc.com,en,2,15
+CAND00945,profit_direction,"Persimmon shares crack in face of profit warning, dividend cut and fall in expected completions",negative,https://www.ajbell.co.uk,en,2,15
+CAND00946,profit_direction,Soul Patts shares push higher on profit jump and 28th dividend increase in a row,positive,https://www.fool.com.au,en,2,15
+CAND00947,profit_direction,WPP names Microsoft’s Cindy Rose as new CEO after profit warning wipes billions off value,negative,https://www.prolificnorth.co.uk,en,2,15
+CAND00948,profit_direction,"PG Electroplast shares fall over 20% after company cuts revenue, profit growth guidance for current fiscal",negative,https://upstox.com,en,2,16
+CAND00949,profit_direction,Supermajors Chevron And Exxon Mobil Reported Another Quarterly Profit Decline But One Is Closing The Gap,negative,https://www.investors.com,en,2,16
+CAND00950,profit_direction,Target’s strong Q4 profit: Target warns about consumer spending decline and tariff pressures—Is the US eco,negative,https://m.economictimes.com,en,2,16
+CAND00951,profit_direction,TechnipFMC Leads Market Transactions With $220 Million in Trades as Rising Profits Fuel Increased Share Repurchases,positive,https://www.bitget.com,en,2,16
+CAND00952,profit_direction,Fortinet Faces a Critical Turning Point: Will SASE Expansion Bridge the Expectations Divide Before Profit Margins Decline?,neutral,https://www.bitget.com,en,2,17
+CAND00953,profit_direction,"Gold rate drops on MCX on profit booking as dollar rises; US-Iran talks, CPI data in focus",neutral,https://www.livemint.com,en,2,17
+CAND00954,profit_direction,"IBM Q4 2025 Results: Revenue & Profit Beat, AI Business Grows to $12.5B - News and Statistics",positive,https://www.indexbox.io,en,2,17
+CAND00955,profit_direction,Bandhan Bank shares surge most in over 9 months despite reporting 52% decline in profit; here is why,neutral,https://upstox.com,en,2,18
+CAND00956,profit_direction,"Profit warning, inside information: UPM lowers its outlook due to lower deliveries in most businesses and decreased pulp prices",negative,https://www.upm.com,en,2,19
+CAND00957,profit_direction,Bank of America & Wells Fargo Profits Rise in Q4 2025 and Full Year | Earnings Report - News and Statistics,positive,https://www.indexbox.io,en,2,21
+CAND00958,profit_direction,"Xiaoyu Yingtong (00139) issued a profit warning, expecting an annual pre-tax loss of no less than approximately HKD 1.9 billion, representing a year-on-year increase.",negative,https://www.moomoo.com,en,2,24
+CAND00959,revenue_direction,"Metlen: Higher turnover, but lower profitability",negative,https://www.ekathimerini.com,en,3,6
+CAND00960,revenue_direction,Intel Q4 loss-making with revenue decline; forecasts more declines,negative,https://www.electronicsweekly.com,en,3,9
+CAND00961,revenue_direction,Citizens Highlights Forestar Group (FOR) Revenue Beat Despite Lower Lot Sales,positive,https://finance.yahoo.com,en,3,11
+CAND00962,revenue_direction,"Chevron Posts Revenue, Profit Decline as Lower Natural Gas Prices Hit Margins",negative,https://www.investopedia.com,en,3,12
+CAND00963,revenue_direction,Earnings Miss of the Week: Lower Book Sales Drag Down Scholastic's Revenue,negative,https://www.investopedia.com,en,3,12
+CAND00964,revenue_direction,Wetherspoon Confronts £100M Labour-Related Cost Pressure as Profit Decline Surpasses Revenue Increase,negative,https://www.bitget.com,en,3,12
+CAND00965,revenue_direction,"Exxon signals lower Q1 profit despite higher oil, gas revenue from Iran war price spikes",negative,https://www.reuters.com,en,3,15
+CAND00966,revenue_direction,Revenue Miss: Kontron AG Fell 5.5% Short Of Analyst Revenue Estimates And Analysts Have Been Revising Their Models,negative,https://finance.yahoo.com,en,3,18
+CAND00967,revenue_direction,"Macau’s Paradise Ent issues profit warning on 63.5% decline in FY25 profit due to satellite casino closure, lower LMG terminal sales - IAG",negative,https://asgam.com,en,3,23
+CAND00968,revenue_direction,"AMD Reports Sharply Higher Profits, Sales",positive,https://www.wsj.com,en,2,6
+CAND00969,revenue_direction,Alphabet Reports 14% Increase in Second-Quarter Revenue,positive,https://www.nytimes.com,en,2,7
+CAND00970,revenue_direction,Intel posts higher revenue after trimming workforce,positive,https://www.japantimes.co.jp,en,2,7
+CAND00971,revenue_direction,"Allegion's Q4 Earnings Miss Estimates, Revenues Increase Y/Y",negative,https://finance.yahoo.com,en,2,8
+CAND00972,revenue_direction,"Alphabet's Q4 Earnings Beat Estimates, Revenues Increase Y/Y",positive,https://finance.yahoo.com,en,2,8
+CAND00973,revenue_direction,Fastenal shares move lower on Q4 revenue miss,negative,https://www.proactiveinvestors.com,en,2,8
+CAND00974,revenue_direction,First ever Tesla revenue decline after Musk backlash,negative,https://www.telegraph.co.uk,en,2,8
+CAND00975,revenue_direction,"GoDaddy Q4 Earnings Beat Estimates, Revenues Increase Y/Y",positive,https://www.theglobeandmail.com,en,2,8
+CAND00976,revenue_direction,Google Parent Alphabet Reports 12% Increase in Revenue,positive,https://www.nytimes.com,en,2,8
+CAND00977,revenue_direction,Intel Revenues Decline 4 Percent to $13.7 Billion,negative,https://www.thurrott.com,en,2,8
+CAND00978,revenue_direction,Target Stock Surges as Earnings Overshadow Sales Decline,positive,https://www.wsj.com,en,2,8
+CAND00979,revenue_direction,"Boeing's Q1 Earnings Top Estimates, Revenues Increase Y/Y (Revised)",positive,https://finance.yahoo.com,en,2,9
+CAND00980,revenue_direction,"Consolidated Water 2025 Earnings Miss Estimates, Revenues Decrease Y/Y",negative,https://finance.yahoo.com,en,2,9
+CAND00981,revenue_direction,Elon Musk’s Tesla reports first-ever annual decline in revenue,negative,https://www.aljazeera.com,en,2,9
+CAND00982,revenue_direction,"Fiserv Q4 Earnings Beat Estimates, Revenues Decline 7% Y/Y",negative,https://www.theglobeandmail.com,en,2,9
+CAND00983,revenue_direction,Morgan Stanley earnings top estimates on increased trading revenue,positive,https://www.cnbc.com,en,2,9
+CAND00984,revenue_direction,Target posts lower 2025 earnings as Q4 sales dip,negative,https://finance.yahoo.com,en,2,9
+CAND00985,revenue_direction,Baidu's Q4 Earnings Beat Estimates Despite Revenue and Profit Decline,neutral,https://finance.yahoo.com,en,2,10
+CAND00986,revenue_direction,Citigroup Projects Higher Q4 IB Revenues: Fee Income to Benefit?,neutral,https://www.theglobeandmail.com,en,2,10
+CAND00987,revenue_direction,Goldman Sachs wealth management sees double-digit revenue increase in 2024,positive,https://www.retailbankerinternational.com,en,2,10
+CAND00988,revenue_direction,"IBM earnings beat by $0.12, revenue fell short of estimates",negative,https://m.uk.investing.com,en,2,10
+CAND00989,revenue_direction,"Ovintiv earnings beat by $2.73, revenue fell short of estimates",neutral,https://ca.investing.com,en,2,10
+CAND00990,revenue_direction,"Persimmon leads FTSE 100 gainers on higher revenue, pretax profit",neutral,https://www.msn.com,en,2,10
+CAND00991,revenue_direction,Tesla Surprises Wall Street With AI Push Amid Revenue Decline,neutral,https://evrimagaci.org,en,2,10
+CAND00992,revenue_direction,Will Relatively Higher Software Revenues Aid IBM's Earnings in Q4?,neutral,https://finance.yahoo.com,en,2,10
+CAND00993,revenue_direction,"ASML gains on earnings beat, but warns of China sales decline",positive,https://au.finance.yahoo.com,en,2,11
+CAND00994,revenue_direction,"Apple Beats Earnings Target On Services Lift, But iPhone Sales Decline",neutral,https://www.investors.com,en,2,11
+CAND00995,revenue_direction,"Arbe Robotics earnings beat, revenue fell short of estimates By Investing.com",neutral,https://uk.investing.com,en,2,11
+CAND00996,revenue_direction,Bank of America Tops Estimates. Revenue Driven Up by Higher Rates.,positive,https://www.barrons.com,en,2,11
+CAND00997,revenue_direction,Belc Posts Higher Sales and Dividend Hike Amid Modest Profit Growth,positive,https://www.tipranks.com,en,2,11
+CAND00998,revenue_direction,"BioRestorative Therapies earnings beat by $0.01, revenue fell short of estimates",neutral,https://ca.investing.com,en,2,11
+CAND00999,revenue_direction,Boeing reports first revenue drop in 7 quarters as deliveries decline,negative,https://www.reuters.com,en,2,11
+CAND01000,revenue_direction,Costco Profit Tops Expectations But Revenue Growth Disappoints; Stock Moves Lower,negative,https://www.investopedia.com,en,2,11
+CAND01001,revenue_direction,"Earnings Snapshot: Boeing narrows Q2 loss, revenue up on increased deliveries",positive,https://www.msn.com,en,2,11
+CAND01002,revenue_direction,"Goldman Sachs earnings beat by $2.39, revenue fell short of estimates",neutral,https://za.investing.com,en,2,11
+CAND01003,revenue_direction,"Intrusion Stock Tanks 8% as Q4 Earnings Miss, Revenues Decline Y/Y",negative,https://finance.yahoo.com,en,2,11
+CAND01004,revenue_direction,"Phillips 66 earnings beat by $0.22, revenue fell short of estimates",neutral,https://uk.investing.com,en,2,11
+CAND01005,revenue_direction,"Pioneer Pow earnings beat by $0.03, revenue fell short of estimates",neutral,https://uk.investing.com,en,2,11
+CAND01006,revenue_direction,"RES Q4 Earnings Miss Estimates on Higher Costs, Revenues Rise Y/Y",negative,https://finance.yahoo.com,en,2,11
+CAND01007,revenue_direction,"Steel Dynamics earnings beat by $0.13, revenue fell short of estimates",neutral,https://au.investing.com,en,2,11
+CAND01008,revenue_direction,Tesla reports biggest quarterly revenue decline in more than a decade,negative,https://www.aljazeera.com,en,2,11
+CAND01009,revenue_direction,Tesla reports declines in revenue and profit amid shaky financial year,negative,https://www.theguardian.com,en,2,11
+CAND01010,revenue_direction,Tesla suffers first ever decline in annual revenue as boycotts continue,negative,https://www.thelondoneconomic.com,en,2,11
+CAND01011,revenue_direction,"Agilent Technologies edges lower on Q1 earnings, revenue miss despite guidance raise",neutral,https://www.investing.com,en,2,12
+CAND01012,revenue_direction,Morgan Stanley Q2 2025 slides: Revenue up 12% YoY despite sequential decline,positive,https://uk.investing.com,en,2,12
+CAND01013,revenue_direction,"Walmart raises full-year earnings forecast as grocery, online growth fuel higher sales",positive,https://www.cnbc.com,en,2,12
+CAND01014,revenue_direction,"Amazon's Ad Revenue Grew 22% Over the Past Year, but Capex Spending Balloons",positive,https://www.adweek.com,en,2,13
+CAND01015,revenue_direction,Apple earnings recap: Stock rises 5% on earnings beat but China revenue declines,positive,https://www.linkedin.com,en,2,13
+CAND01016,revenue_direction,CNBC Daily Open: Tesla's revenue rose — but so did its operating costs,neutral,https://www.cnbc.com,en,2,13
+CAND01017,revenue_direction,Insecticides India shares decline over 2% after management cuts FY26 revenue growth guidance,negative,https://www.cnbctv18.com,en,2,13
+CAND01018,revenue_direction,OTP Bank posts mixed Q4 results with revenue beat offset by higher costs,neutral,https://ca.investing.com,en,2,13
+CAND01019,revenue_direction,Small developers on the App Store grew revenue by 71 percent from 2020-2022,positive,https://www.apple.com,en,2,13
+CAND01020,revenue_direction,"Barrick Gold Q4: Higher Realized Gold Prices, Revenue Miss, New Stock Buyback And More",neutral,https://finance.yahoo.com,en,2,14
+CAND01021,revenue_direction,"Tesla profit falls short despite record sales, hit by higher costs and fading credits",negative,https://www.reuters.com,en,2,14
+CAND01022,revenue_direction,"Elevance Health Q2 2025 slides: revenue up 14%, EPS guidance cut on higher medical costs",negative,https://www.investing.com,en,2,15
+CAND01023,revenue_direction,Google Cloud Revenue Just Surged 48%. Is Alphabet the Best AI Stock to Buy Now?,positive,https://www.fool.com,en,2,15
+CAND01024,revenue_direction,Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44%,positive,https://www.cnbc.com,en,2,15
+CAND01025,revenue_direction,Target's bad year continues: Sales decline and stock slips as high-stakes holiday shopping season arrives,negative,https://www.fastcompany.com,en,2,15
+CAND01026,revenue_direction,"Walmart beats sales, raises outlook as higher-income consumers continue to turn to the retail giant",positive,https://finance.yahoo.com,en,2,15
+CAND01027,revenue_direction,"AMD reports record Q4 and FY25 results, but shares slump after company forecasts Q1 revenue decline",negative,https://www.datacenterdynamics.com,en,2,16
+CAND01028,revenue_direction,"Meta shares pop 12% after company reports first sales increase in four quarters, issues optimistic guidance",positive,https://www.cnbc.com,en,2,16
+CAND01029,revenue_direction,"Oracle's earnings report blew up! Cloud revenue surged 44%, with a backlog of 553 billion yuan in orders.",positive,https://news.futunn.com,en,2,18
