@@ -1,0 +1,18 @@
+﻿{
+  "run_id": "r1_max12",
+  "type": "post-hoc robustness check",
+  "purpose": "Isolate the effect of increasing the output token budget.",
+  "parent_run": "primary",
+  "changed_parameter": {
+    "max_tokens_primary": 4,
+    "max_tokens_r1": 12
+  },
+  "unchanged": {
+    "model": "Qwen/Qwen3-4B-GGUF:Q4_K_M",
+    "temperature": 0,
+    "reasoning": false,
+    "prompts_sha256": "8d117ae66128f87d3dd2ddc97a178fdeb87f88046ef1e4ec6c9c09763a17588b",
+    "dataset": "data/frozen",
+    "parser": "same strict A-E parser as primary"
+  }
+}
