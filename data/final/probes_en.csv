@@ -1,0 +1,61 @@
+pair_id,family,source_type,original_direction,original_en,counterfactual_en,expected_original,expected_counterfactual
+P001,profit_direction,controlled_synthetic_flame_inspired,positive,The company reported that operating profit increased from EUR 40 million to EUR 52 million.,The company reported that operating profit decreased from EUR 52 million to EUR 40 million.,1,-1
+P002,profit_direction,controlled_synthetic_flame_inspired,negative,The company reported that net profit fell by 18 percent year over year.,The company reported that net profit rose by 18 percent year over year.,-1,1
+P003,profit_direction,controlled_synthetic_flame_inspired,positive,Quarterly profit increased to USD 85 million from USD 70 million a year earlier.,Quarterly profit decreased to USD 70 million from USD 85 million a year earlier.,1,-1
+P004,profit_direction,controlled_synthetic_flame_inspired,negative,The company said annual profit declined despite stable revenue.,The company said annual profit grew despite stable revenue.,-1,1
+P005,profit_direction,controlled_synthetic_flame_inspired,positive,Operating profit improved by 14 percent compared with the previous quarter.,Operating profit deteriorated by 14 percent compared with the previous quarter.,1,-1
+P006,profit_direction,controlled_synthetic_flame_inspired,negative,Net income decreased from USD 145 million to USD 120 million.,Net income increased from USD 120 million to USD 145 million.,-1,1
+P007,profit_direction,controlled_synthetic_flame_inspired,positive,The company recorded a 9 percent increase in full-year profit.,The company recorded a 9 percent decrease in full-year profit.,1,-1
+P008,profit_direction,controlled_synthetic_flame_inspired,negative,Profit fell to EUR 190 million from EUR 210 million.,Profit rose to EUR 210 million from EUR 190 million.,-1,1
+P009,loss_direction,controlled_synthetic_flame_inspired,positive,The company narrowed its operating loss from USD 30 million to USD 18 million.,The company widened its operating loss from USD 18 million to USD 30 million.,1,-1
+P010,loss_direction,controlled_synthetic_flame_inspired,negative,The company's quarterly net loss increased by 25 percent.,The company's quarterly net loss decreased by 25 percent.,-1,1
+P011,loss_direction,controlled_synthetic_flame_inspired,positive,The company reduced its annual loss to EUR 12 million from EUR 20 million.,The company increased its annual loss to EUR 20 million from EUR 12 million.,1,-1
+P012,loss_direction,controlled_synthetic_flame_inspired,negative,Operating losses widened significantly during the quarter.,Operating losses narrowed significantly during the quarter.,-1,1
+P013,loss_direction,controlled_synthetic_flame_inspired,positive,The net loss fell from USD 44 million to USD 31 million.,The net loss rose from USD 31 million to USD 44 million.,1,-1
+P014,loss_direction,controlled_synthetic_flame_inspired,negative,The company's loss increased for the third consecutive quarter.,The company's loss decreased for the third consecutive quarter.,-1,1
+P015,loss_direction,controlled_synthetic_flame_inspired,positive,The company reported a smaller operating loss than in the prior year.,The company reported a larger operating loss than in the prior year.,1,-1
+P016,loss_direction,controlled_synthetic_flame_inspired,negative,The company's pre-tax loss widened to GBP 18 million.,The company's pre-tax loss narrowed to GBP 8 million.,-1,1
+P017,cost_direction,controlled_synthetic_flame_inspired,positive,The company reduced operating costs by 12 percent.,The company increased operating costs by 12 percent.,1,-1
+P018,cost_direction,controlled_synthetic_flame_inspired,negative,Quarterly expenses rose from USD 82 million to USD 95 million.,Quarterly expenses fell from USD 95 million to USD 82 million.,-1,1
+P019,cost_direction,controlled_synthetic_flame_inspired,positive,The company reported lower production costs during the quarter.,The company reported higher production costs during the quarter.,1,-1
+P020,cost_direction,controlled_synthetic_flame_inspired,negative,Operating expenses increased by 7 percent year over year.,Operating expenses decreased by 7 percent year over year.,-1,1
+P021,cost_direction,controlled_synthetic_flame_inspired,positive,The company cut logistics costs from EUR 28 million to EUR 21 million.,The company raised logistics costs from EUR 21 million to EUR 28 million.,1,-1
+P022,cost_direction,controlled_synthetic_flame_inspired,negative,Administrative expenses increased during the first half of the year.,Administrative expenses declined during the first half of the year.,-1,1
+P023,cost_direction,controlled_synthetic_flame_inspired,positive,The company reduced its cost base by USD 50 million.,The company increased its cost base by USD 50 million.,1,-1
+P024,cost_direction,controlled_synthetic_flame_inspired,negative,Manufacturing costs rose by 10 percent compared with the previous quarter.,Manufacturing costs fell by 10 percent compared with the previous quarter.,-1,1
+P025,revenue_direction,controlled_synthetic_flame_inspired,positive,Quarterly revenue increased by 12 percent year over year.,Quarterly revenue decreased by 12 percent year over year.,1,-1
+P026,revenue_direction,controlled_synthetic_flame_inspired,negative,Sales fell from EUR 680 million to EUR 600 million.,Sales rose from EUR 600 million to EUR 680 million.,-1,1
+P027,revenue_direction,controlled_synthetic_flame_inspired,positive,The company reported higher revenue in all major business segments.,The company reported lower revenue in all major business segments.,1,-1
+P028,revenue_direction,controlled_synthetic_flame_inspired,negative,Full-year revenue declined by 9 percent.,Full-year revenue grew by 9 percent.,-1,1
+P029,revenue_direction,controlled_synthetic_flame_inspired,positive,Quarterly sales increased to USD 1.2 billion from USD 1.0 billion.,Quarterly sales decreased to USD 1.0 billion from USD 1.2 billion.,1,-1
+P030,revenue_direction,controlled_synthetic_flame_inspired,negative,Revenue fell for the fourth consecutive quarter.,Revenue rose for the fourth consecutive quarter.,-1,1
+P031,revenue_direction,controlled_synthetic_flame_inspired,positive,The company recorded a 15 percent increase in annual sales.,The company recorded a 15 percent decrease in annual sales.,1,-1
+P032,revenue_direction,controlled_synthetic_flame_inspired,negative,Revenue declined to EUR 870 million from EUR 950 million.,Revenue improved to EUR 950 million from EUR 870 million.,-1,1
+P033,earnings_expectations,controlled_synthetic_flame_inspired,positive,"The company reported earnings per share of USD 2.10, above analyst expectations of USD 1.80.","The company reported earnings per share of USD 1.50, below analyst expectations of USD 1.80.",1,-1
+P034,earnings_expectations,controlled_synthetic_flame_inspired,negative,Quarterly revenue missed analyst estimates by 8 percent.,Quarterly revenue exceeded analyst estimates by 8 percent.,-1,1
+P035,earnings_expectations,controlled_synthetic_flame_inspired,positive,The company reported profit above the market consensus.,The company reported profit below the market consensus.,1,-1
+P036,earnings_expectations,controlled_synthetic_flame_inspired,negative,Earnings per share missed analysts' forecasts.,Earnings per share beat analysts' forecasts.,-1,1
+P037,earnings_expectations,controlled_synthetic_flame_inspired,positive,Revenue came in higher than analysts had expected.,Revenue came in lower than analysts had expected.,1,-1
+P038,earnings_expectations,controlled_synthetic_flame_inspired,negative,Quarterly earnings fell short of the consensus estimate.,Quarterly earnings surpassed the consensus estimate.,-1,1
+P039,earnings_expectations,controlled_synthetic_flame_inspired,positive,The company exceeded analysts' earnings expectations for the quarter.,The company failed to meet analysts' earnings expectations for the quarter.,1,-1
+P040,earnings_expectations,controlled_synthetic_flame_inspired,negative,Reported revenue was below the consensus forecast.,Reported revenue was above the consensus forecast.,-1,1
+P041,guidance,controlled_synthetic_flame_inspired,positive,Management raised its full-year revenue guidance.,Management lowered its full-year revenue guidance.,1,-1
+P042,guidance,controlled_synthetic_flame_inspired,negative,The company reduced its annual earnings outlook.,The company increased its annual earnings outlook.,-1,1
+P043,guidance,controlled_synthetic_flame_inspired,positive,Management upgraded its forecast for full-year operating profit.,Management downgraded its forecast for full-year operating profit.,1,-1
+P044,guidance,controlled_synthetic_flame_inspired,negative,The company cut its expected revenue range for the year.,The company lifted its expected revenue range for the year.,-1,1
+P045,guidance,controlled_synthetic_flame_inspired,positive,Management raised its expected earnings per share for the full year.,Management lowered its expected earnings per share for the full year.,1,-1
+P046,guidance,controlled_synthetic_flame_inspired,negative,The company reduced its forecast for annual sales growth.,The company improved its forecast for annual sales growth.,-1,1
+P047,guidance,controlled_synthetic_flame_inspired,positive,Management increased its profitability outlook for the coming year.,Management decreased its profitability outlook for the coming year.,1,-1
+P048,guidance,controlled_synthetic_flame_inspired,negative,The company lowered the lower end of its full-year earnings forecast.,The company raised the lower end of its full-year earnings forecast.,-1,1
+P049,margin,controlled_synthetic_flame_inspired,positive,The company's operating margin expanded from 12 percent to 16 percent.,The company's operating margin contracted from 16 percent to 12 percent.,1,-1
+P050,margin,controlled_synthetic_flame_inspired,negative,Gross margin decreased by three percentage points.,Gross margin increased by three percentage points.,-1,1
+P051,margin,controlled_synthetic_flame_inspired,positive,The company reported wider operating margins during the quarter.,The company reported narrower operating margins during the quarter.,1,-1
+P052,margin,controlled_synthetic_flame_inspired,negative,Operating margin deteriorated to 15 percent from 18 percent.,Operating margin improved to 18 percent from 15 percent.,-1,1
+P053,margin,controlled_synthetic_flame_inspired,positive,The company's gross margin expanded despite stable revenue.,The company's gross margin contracted despite stable revenue.,1,-1
+P054,margin,controlled_synthetic_flame_inspired,negative,Profit margin decreased from 11 percent to 9 percent.,Profit margin increased from 9 percent to 11 percent.,-1,1
+P055,contract_realization,controlled_synthetic_flame_inspired,positive,The company secured a major five-year customer contract.,The company failed to secure a major five-year customer contract.,1,-1
+P056,contract_realization,controlled_synthetic_flame_inspired,negative,The company lost a large government supply contract.,The company won a large government supply contract.,-1,1
+P057,contract_realization,controlled_synthetic_flame_inspired,positive,The company was awarded a multi-year infrastructure contract.,The company's bid for a multi-year infrastructure contract was rejected.,1,-1
+P058,contract_realization,controlled_synthetic_flame_inspired,negative,The company lost a major customer agreement.,The company signed a major new customer agreement.,-1,1
+P059,contract_realization,controlled_synthetic_flame_inspired,positive,The company secured a contract worth USD 300 million.,The company failed to secure a contract worth USD 300 million.,1,-1
+P060,contract_realization,controlled_synthetic_flame_inspired,negative,The company failed to win the tender for a large industrial project.,The company won the tender for a large industrial project.,-1,1
