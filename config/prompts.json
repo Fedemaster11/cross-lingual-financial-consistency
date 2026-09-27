@@ -1,0 +1,9 @@
+{
+  "en": "Classify the expected short-term effect of the financial statement on the company's stock price, based only on the information provided. Return exactly one letter: A = strongly negative, B = negative, C = neutral or unclear, D = positive, E = strongly positive.",
+  "es": "Clasifica el efecto esperado a corto plazo de la información financiera sobre el precio de las acciones de la empresa, basándote únicamente en la información proporcionada. Devuelve exactamente una letra: A = muy negativo, B = negativo, C = neutral o incierto, D = positivo, E = muy positivo.",
+  "de": "Klassifiziere die erwartete kurzfristige Auswirkung der Finanzinformation auf den Aktienkurs des Unternehmens ausschließlich anhand der angegebenen Informationen. Gib genau einen Buchstaben zurück: A = stark negativ, B = negativ, C = neutral oder unklar, D = positiv, E = stark positiv.",
+  "fr": "Classe l'effet attendu à court terme de l'information financière sur le cours de l'action de l'entreprise en te fondant uniquement sur les informations fournies. Réponds avec exactement une lettre : A = très négatif, B = négatif, C = neutre ou incertain, D = positif, E = très positif.",
+  "zh": "仅根据所提供的财务信息，判断该信息对公司股价的预期短期影响。只返回一个字母：A = 强烈负面，B = 负面，C = 中性或不明确，D = 正面，E = 强烈正面。",
+  "ja": "提供された財務情報のみに基づいて、その情報が会社の株価に与える短期的な影響を分類してください。次のうち1文字だけを返してください：A = 非常にネガティブ、B = ネガティブ、C = 中立または不明確、D = ポジティブ、E = 非常にポジティブ。",
+  "ar": "صنّف التأثير المتوقع على المدى القصير للمعلومة المالية على سعر سهم الشركة، بالاعتماد فقط على المعلومات المقدمة. أعد حرفًا واحدًا فقط: A = سلبي جدًا، B = سلبي، C = محايد أو غير واضح، D = إيجابي، E = إيجابي جدًا."
+}
