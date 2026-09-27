@@ -1,0 +1,15 @@
+﻿language,text,raw_output,label,expected,valid_format,correct_direction,seconds
+en,The company reported substantially higher profit and raised its annual earnings outlook.,D,D,D/E,True,True,3.047
+en,The company reported a substantially larger loss and lowered its annual earnings outlook.,A,A,A/B,True,True,1.944
+es,La empresa informó de un fuerte aumento de los beneficios y elevó sus previsiones anuales.,D,D,D/E,True,True,2.33
+es,La empresa informó de una fuerte caída de los beneficios y redujo sus previsiones anuales.,B,B,A/B,True,True,2.132
+de,Das Unternehmen meldete einen deutlichen Gewinnanstieg und hob seine Jahresprognose an.,D,D,D/E,True,True,2.278
+de,Das Unternehmen meldete einen deutlichen Gewinnrückgang und senkte seine Jahresprognose.,A,A,A/B,True,True,1.583
+fr,L'entreprise a annoncé une forte hausse de ses bénéfices et a relevé ses prévisions annuelles.,D,D,D/E,True,True,2.315
+fr,L'entreprise a annoncé une forte baisse de ses bénéfices et a abaissé ses prévisions annuelles.,A,A,A/B,True,True,2.011
+zh,该公司利润大幅增长，并上调了全年盈利预期。,D,D,D/E,True,True,2.088
+zh,该公司利润大幅下降，并下调了全年盈利预期。,B,B,A/B,True,True,1.408
+ja,同社の利益は大幅に増加し、通期利益予想も引き上げられた。,D,D,D/E,True,True,2.242
+ja,同社の利益は大幅に減少し、通期利益予想も引き下げられた。,B,B,A/B,True,True,1.699
+ar,أعلنت الشركة عن ارتفاع كبير في الأرباح ورفعت توقعاتها السنوية للأرباح.,D,D,D/E,True,True,2.312
+ar,أعلنت الشركة عن انخفاض كبير في الأرباح وخفضت توقعاتها السنوية للأرباح.,A,A,A/B,True,True,2.294

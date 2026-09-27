@@ -1,0 +1,43 @@
+{
+  "experiment": {
+    "title": "Cross-Lingual Consistency of Counterfactual Financial Reasoning in Multilingual LLMs",
+    "primary_model_frozen_before_main_inference": true
+  },
+  "model": {
+    "name": "Qwen3-4B",
+    "repository": "Qwen/Qwen3-4B-GGUF",
+    "revision": "bc640142c66e1fdd12af0bd68f40445458f3869b",
+    "gguf_file": "Qwen3-4B-Q4_K_M.gguf",
+    "quantization": "Q4_K_M",
+    "sha256": "7485FE6F11AF29433BC51CAB58009521F205840F5B4AE3A32FA7F92E8534FDF5",
+    "size_bytes": 2497280256
+  },
+  "runtime": {
+    "engine": "llama.cpp",
+    "build": 11193,
+    "commit": "4e7481175",
+    "context_size": 2048,
+    "gpu_layers": 0,
+    "threads": 6,
+    "reasoning": false
+  },
+  "decoding": {
+    "temperature": 0,
+    "max_tokens": 4,
+    "allowed_labels": ["A", "B", "C", "D", "E"],
+    "label_mapping": {
+      "A": -2,
+      "B": -1,
+      "C": 0,
+      "D": 1,
+      "E": 2
+    }
+  },
+  "sanity_check": {
+    "items": 14,
+    "correct_direction": 14,
+    "valid_format": 14,
+    "mean_seconds_per_prompt": 2.12,
+    "technical_gate": "PASS"
+  }
+}
