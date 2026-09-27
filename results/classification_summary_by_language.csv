@@ -1,0 +1,8 @@
+﻿language,n_total,strict_valid,strict_invalid,strict_direction_correct,strict_direction_accuracy_valid_only,sensitivity_valid,sensitivity_direction_correct,sensitivity_direction_accuracy
+en,120,118,2,53,0.449153,120,53,0.441667
+es,120,120,0,56,0.466667,120,56,0.466667
+de,120,120,0,52,0.433333,120,52,0.433333
+fr,120,120,0,57,0.475,120,57,0.475
+zh,120,120,0,73,0.608333,120,73,0.608333
+ja,120,120,0,92,0.766667,120,92,0.766667
+ar,120,115,5,81,0.704348,120,86,0.716667

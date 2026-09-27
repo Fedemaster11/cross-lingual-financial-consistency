@@ -1,0 +1,3 @@
+﻿analysis,n_language_pairs,n_pairwise_item_observations,spearman_rho,naive_spearman_p,pearson_r,naive_pearson_p,qap_spearman_rho,qap_p_one_sided,qap_p_two_sided,qap_permutations,bootstrap_reps_requested,bootstrap_reps_valid,bootstrap_rho_ci_low,bootstrap_rho_ci_high
+strict,21,1218,-0.78232635,2.78407e-05,-0.49554509,0.0223511306,-0.78232635,0.0007936508,0.0007936508,5040,10000,10000,-0.81978326,-0.60903011
+sensitivity,21,1260,-0.77839447,3.24575e-05,-0.49394404,0.0228565807,-0.77839447,0.0007936508,0.0007936508,5040,10000,10000,-0.8235705,-0.6009764
