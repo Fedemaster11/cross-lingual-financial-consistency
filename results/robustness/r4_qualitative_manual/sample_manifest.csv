@@ -1,0 +1,17 @@
+﻿family,pair_id,case_type
+profit_direction,P005,consistent
+profit_direction,P008,divergent
+loss_direction,P013,consistent
+loss_direction,P009,divergent
+cost_direction,P023,consistent
+cost_direction,P019,divergent
+revenue_direction,P025,consistent
+revenue_direction,P028,divergent
+earnings_expectations,P034,consistent
+earnings_expectations,P038,divergent
+guidance,P045,consistent
+guidance,P048,divergent
+margin,P052,consistent
+margin,P051,divergent
+contract_realization,P057,consistent
+contract_realization,P060,divergent
