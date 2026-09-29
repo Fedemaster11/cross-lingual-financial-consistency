@@ -1,0 +1,2 @@
+n_language_pairs,n_pairwise_item_observations,spearman_rho,naive_spearman_p,pearson_r,naive_pearson_p,qap_rho,qap_one_sided_p,qap_two_sided_p,qap_permutations,bootstrap_valid,bootstrap_ci_low,bootstrap_ci_high
+21,1260,-0.4013013435145863,0.0713805823448492,-0.26268901122209437,0.24996833157456866,-0.4013013435145863,0.12003968253968254,0.19424603174603175,5040,10000,-0.5206379306710623,-0.27104335274328495
