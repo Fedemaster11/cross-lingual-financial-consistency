@@ -194,6 +194,20 @@ Overall, the results suggest that cross-lingual consistency depends not only on 
 
 The study is limited to one model, seven languages and a synthetic controlled financial probe set. Whether the same patterns replicate in larger models or on real financial news remains an open question.
 
+
+
+## AI Use Declaration
+
+AI tools were used as support tools during this project.
+
+**Meta NLLB-200-distilled-600M** was used as part of the multilingual data-construction pipeline to generate the initial translations of the English probes into the other six languages.
+
+**ChatGPT, Gemini, and DeepSeek** were used to discuss research ideas, review interpretations and statistical relationships, help write and revise Python analysis code, inspect scripts for errors, and assist with debugging and figure generation.
+
+For the exploratory R4 rationale analysis, LLM assistance was used for structured annotation under a fixed codebook. The second semantic annotation pass was performed independently under the same frozen codebook and was not shown the first annotator's coding.
+
+All final analyses were executed on the frozen datasets and saved model outputs in this repository. The experimental protocol, analysis scripts, and reported numerical results are included so that the work can be inspected and reproduced.
+
 ---
 
 ## Reproducing the Analysis
@@ -213,15 +227,3 @@ python make_final_figures.py
 
 
 ---
-
-## AI Use Declaration
-
-AI tools were used as support tools during this project.
-
-**Meta NLLB-200-distilled-600M** was used as part of the multilingual data-construction pipeline to generate the initial translations of the English probes into the other six languages.
-
-**ChatGPT, Gemini, and DeepSeek** were used to discuss research ideas, review interpretations and statistical relationships, help write and revise Python analysis code, inspect scripts for errors, and assist with debugging and figure generation.
-
-For the exploratory R4 rationale analysis, LLM assistance was used for structured annotation under a fixed codebook. The second semantic annotation pass was performed independently under the same frozen codebook and was not shown the first annotator's coding.
-
-All final analyses were executed on the frozen datasets and saved model outputs in this repository. The experimental protocol, analysis scripts, and reported numerical results are included so that the work can be inspected and reproduced.
