@@ -1,0 +1,2 @@
+rows,strict_format_valid,strict_format_rate,recoverable_labels,recoverable_rate,complete_deltas,direction_correct_rate,exact_expected_delta_rate,mean_abs_delta,r1_r4_label_agreement
+840,588,0.7,840,1.0,420,0.8,0.35,1.2523809523809524,0.7821428571428571

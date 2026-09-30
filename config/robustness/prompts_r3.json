@@ -1,0 +1,9 @@
+{
+  "en": "Based solely on the financial statement provided, assess its likely short-term impact on the company's share price. Choose one category: A = strongly negative, B = negative, C = neutral or uncertain, D = positive, E = strongly positive. Respond only with the corresponding letter.",
+  "es": "Basándote exclusivamente en la información financiera proporcionada, evalúa su probable impacto a corto plazo sobre el precio de las acciones de la empresa. Elige una categoría: A = muy negativo, B = negativo, C = neutral o incierto, D = positivo, E = muy positivo. Responde únicamente con la letra correspondiente.",
+  "de": "Beurteile ausschließlich anhand der bereitgestellten Finanzinformation deren wahrscheinliche kurzfristige Auswirkung auf den Aktienkurs des Unternehmens. Wähle eine Kategorie: A = stark negativ, B = negativ, C = neutral oder ungewiss, D = positiv, E = stark positiv. Antworte ausschließlich mit dem entsprechenden Buchstaben.",
+  "fr": "En te fondant exclusivement sur l'information financière fournie, évalue son impact probable à court terme sur le cours de l'action de l'entreprise. Choisis une catégorie : A = très négatif, B = négatif, C = neutre ou incertain, D = positif, E = très positif. Réponds uniquement avec la lettre correspondante.",
+  "zh": "仅根据所提供的财务信息，评估其对公司股价可能产生的短期影响。请选择一个类别：A = 强烈负面，B = 负面，C = 中性或不确定，D = 正面，E = 强烈正面。只回答相应的字母。",
+  "ja": "提供された財務情報だけに基づいて、それが会社の株価に与える短期的な影響を評価してください。次のカテゴリーから1つ選んでください：A = 非常にネガティブ、B = ネガティブ、C = 中立または不確実、D = ポジティブ、E = 非常にポジティブ。対応する文字だけで回答してください。",
+  "ar": "استنادًا فقط إلى المعلومة المالية المقدمة، قيّم تأثيرها المحتمل قصير الأجل على سعر سهم الشركة. اختر فئة واحدة: A = سلبي جدًا، B = سلبي، C = محايد أو غير مؤكد، D = إيجابي، E = إيجابي جدًا. أجب بالحرف المقابل فقط."
+}

@@ -1,0 +1,22 @@
+pair_id,family,language,original_text,counterfactual_text,expected_original,expected_counterfactual
+P001,profit_direction,en,The company reported that operating profit increased from EUR 40 million to EUR 52 million.,The company reported that operating profit decreased from EUR 52 million to EUR 40 million.,1,-1
+P002,profit_direction,en,The company reported that net profit fell by 18 percent year over year.,The company reported that net profit rose by 18 percent year over year.,-1,1
+P003,profit_direction,en,Quarterly profit increased to USD 85 million from USD 70 million a year earlier.,Quarterly profit decreased to USD 70 million from USD 85 million a year earlier.,1,-1
+P001,profit_direction,es,La empresa informó que el beneficio operativo aumentó de 40 millones de euros a 52 millones de euros.,La empresa informó que el beneficio operativo disminuyó de 52 millones de euros a 40 millones de euros.,1,-1
+P002,profit_direction,es,La compañía informó que la ganancia neta disminuyó un 18 por ciento año tras año.,La compañía informó que la ganancia neta aumentó un 18 por ciento año tras año.,-1,1
+P003,profit_direction,es,El beneficio trimestral aumentó a 85 millones de dólares desde 70 millones de dólares un año antes.,El beneficio trimestral disminuyó a 70 millones de dólares desde 85 millones de dólares un año antes.,1,-1
+P001,profit_direction,de,"Das Unternehmen berichtete, dass der Betriebsgewinn von 40 Mio. EUR auf 52 Mio. EUR gestiegen sei.","Das Unternehmen berichtete, dass der Betriebsgewinn von 52 Mio. EUR auf 40 Mio. EUR zurückgegangen sei.",1,-1
+P002,profit_direction,de,"Das Unternehmen berichtete, dass der Nettogewinn von Jahr zu Jahr um 18 Prozent gesunken sei.","Das Unternehmen berichtete, dass der Nettogewinn von Jahr zu Jahr um 18 Prozent gestiegen sei.",-1,1
+P003,profit_direction,de,Der Quartalsgewinn stieg von 70 Mio. USD im Vorjahr auf 85 Mio. USD.,Der Quartalsgewinn ging von einem Jahr zuvor auf 85 Mio. USD auf 70 Mio. USD zurück.,1,-1
+P001,profit_direction,fr,La société a déclaré que le bénéfice d'exploitation était passé de 40 millions d'euros à 52 millions d'euros.,La société a indiqué que le bénéfice d'exploitation était passé de 52 millions d'euros à 40 millions d'euros.,1,-1
+P002,profit_direction,fr,La société a rapporté que les bénéfices nets ont diminué de 18% d'une année sur l'autre.,La société a rapporté que le bénéfice net a augmenté de 18% d'une année sur l'autre.,-1,1
+P003,profit_direction,fr,Le bénéfice trimestriel est passé de 70 millions de dollars à 85 millions de dollars l'année précédente.,Les bénéfices trimestriels ont diminué à 70 millions USD par rapport à 85 millions USD l'année précédente.,1,-1
+P001,profit_direction,zh,"该公司报告说,营业利从4000万欧元增加到5200万欧元.","该公司报告说,营业利从5200万欧元减少到4000万欧元.",1,-1
+P002,profit_direction,zh,"该公司报告说,净利同比下降了18%.","该公司报告说,净利同比增长了18%.",-1,1
+P003,profit_direction,zh,季度利从前一年的7000万美元增加到8500万美元.,季度利从前一年的8500万美元降至7000万美元.,1,-1
+P001,profit_direction,ja,"同社は,運用利益が4千万ユーロから5200万ユーロに増加したと報告した.","同社は,運用利益が5200万ユーロから4000万ユーロに減少したと報告した.",1,-1
+P002,profit_direction,ja,同社は純利益が年比18%減少したと報告した.,同社は純利益が年比18%増加したと報告した.,-1,1
+P003,profit_direction,ja,"季度利益は,前年7000万ドルから8500万ドルに増加した.",季度利益は前年8500万ドルから7000万ドルに減少した.,1,-1
+P001,profit_direction,ar,أعلنت الشركة أن الربح التشغيلي ارتفع من 40 مليون إلى 52 مليون يورو.,أعلنت الشركة أن الربح التشغيلي انخفض من 52 مليون يورو إلى 40 مليون يورو.,1,-1
+P002,profit_direction,ar,أعلنت الشركة أن صافي الأرباح انخفض بنسبة 18 في المائة سنوياً على أساس سنوي.,أعلنت الشركة أن صافي الأرباح ارتفع بنسبة 18 في المائة سنوياً.,-1,1
+P003,profit_direction,ar,ارتفع الربح الربعي إلى 85 مليون دولار أمريكي من 70 مليون دولار أمريكي في العام السابق.,انخفضت الأرباح الربعية إلى 70 مليون دولار أمريكي من 85 مليون دولار أمريكي في العام السابق.,1,-1

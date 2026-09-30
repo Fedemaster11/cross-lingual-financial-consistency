@@ -1,0 +1,37 @@
+R4 bundle — post-hoc exploratory rationale elicitation
+
+Files:
+- run_robustness_r4.py
+- analyze_r4.py
+- config/robustness/prompts_r4.json
+- config/robustness/prompts_r4.sha256
+- config/robustness/r4_spec.json
+
+Frozen prompt SHA256:
+2181e2fbc27b47775c2c172cabfe91249a22dd839d5c82ac6e5d2acfaa6d23e0
+
+Recommended workflow from repo root:
+
+1. Copy/extract this bundle into the repository root, preserving folders.
+
+2. Validate without model calls:
+   python .\run_robustness_r4.py --dry-run
+
+3. Run first 4 tasks only:
+   python .\run_robustness_r4.py --limit 4
+
+4. Inspect:
+   Get-Content .\results\robustness\r4_rationale_raw.csv -First 6
+
+5. If the four outputs follow LETTER | one short sentence, continue:
+   python .\run_robustness_r4.py
+
+The runner resumes automatically from the CSV by task_id.
+
+6. After 840/840:
+   python .\analyze_r4.py
+
+Important:
+- Do not modify prompts_r4.json after the first model call.
+- R4 is exploratory; Primary remains the hypothesis test.
+- Rationales are generated explanations, not hidden/internal model reasoning.

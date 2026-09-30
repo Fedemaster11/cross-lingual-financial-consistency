@@ -1,0 +1,11 @@
+{
+  "run_id": "r2_strict_prompt",
+  "type": "post-hoc robustness check",
+  "purpose": "Test sensitivity to stronger output-format instructions while holding max_tokens at 12.",
+  "comparison": "R2 vs R1 isolates prompt-format wording.",
+  "max_tokens": 12,
+  "temperature": 0,
+  "reasoning": false,
+  "model": "Qwen/Qwen3-4B-GGUF:Q4_K_M",
+  "prompts_sha256": "0ef49cea5cda449ac32f613eb72ce944d31cbb479f422bfb90bab8bc774fcaae"
+}

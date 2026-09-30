@@ -1,0 +1,17 @@
+{
+  "translation_stage": "spanish_raw_nllb",
+  "model_id": "facebook/nllb-200-distilled-600M",
+  "revision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "source_language": "eng_Latn",
+  "target_language": "spa_Latn",
+  "input_file": "data\\final\\probes_en.csv",
+  "output_file": "data\\interim\\translations_es_nllb_raw.csv",
+  "pairs": 60,
+  "translated_statements": 120,
+  "decoding": {
+    "num_beams": 4,
+    "do_sample": false,
+    "max_new_tokens": 128
+  },
+  "post_editing_applied": false
+}

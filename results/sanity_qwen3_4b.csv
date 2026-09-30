@@ -1,0 +1,8 @@
+﻿language,text,raw_output,label,expected_labels,passed,seconds
+en,The company reported sharply higher profits and raised its annual outlook.,D,D,D/E,True,1.857
+es,La empresa informó de un fuerte aumento de los costes y redujo su previsión de beneficios.,C,C,A/B,False,2.098
+de,Das Unternehmen meldete deutlich höhere Umsätze und hob seine Jahresprognose an.,D,D,D/E,True,2.64
+fr,La perte de l'entreprise s'est fortement creusée et la direction a abaissé ses prévisions annuelles.,C,C,A/B,False,1.522
+zh,该公司利润大幅增长，并上调了全年盈利预期。,D,D,D/E,True,1.743
+ja,同社の営業利益率は大幅に低下し、通期利益予想も引き下げられた。,C,C,A/B,False,1.375
+ar,أعلنت الشركة عن ارتفاع كبير في الإيرادات ورفعت توقعاتها للأرباح السنوية.,D,D,D/E,True,1.441

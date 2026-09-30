@@ -1,0 +1,16 @@
+figure,purpose,sources
+03_primary_direct_label_agreement_heatmap,"Static same-label agreement, complementary to counterfactual D.",results\direct_label_agreement\direct_label_agreement_strict_percent.csv
+05_r1_vs_r4_label_agreement_by_language,Language-specific behavioral change induced by rationale elicitation.,results\robustness\r4_recovered\r1_vs_r4_agreement_by_language.csv
+06_family_direction_correct_robustness,Shows which financial relation types are easier/harder across robustness runs.,results\robustness\r4_recovered\r4_family_summary.csv
+07_r4_label_distribution_by_language,Shows scale asymmetry and language-specific use of A–E under rationale elicitation.,results\robustness\r4_recovered\r4_label_distribution.csv
+08_r4_direct_label_agreement_heatmap,Static label-consistency structure under rationale elicitation.,results\robustness\r4_recovered\r4_direct_label_agreement_percent.csv
+09_r4_overlap_vs_disagreement,R4 version of the H1 plot; illustrates weaker prompt-dependent association.,results\robustness\r4_hypothesis\r4_overlap_vs_disagreement.csv; results\robustness\r4_hypothesis\r4_hypothesis_summary.csv
+10_r4_ras_by_language_pair,Cross-lingual rationale alignment over the 32 selected R4 statements.,results\robustness\r4_rationale_alignment\r4_ras_by_language_pair.csv
+11_r4_ras_by_family,Shows where generated rationales are more/less cross-lingually aligned.,results\robustness\r4_rationale_alignment\r4_ras_by_family.csv
+12_r4_label_vs_rationale_2x2,"Separates aligned behavior, calibration differences, and deeper rationale divergence.",results\robustness\r4_rationale_alignment\r4_alignment_2x2_summary.csv
+13_r4_second_annotator_reliability,"Reliability check for semantic coding, causal structure, uncertainty, and label alignment.",results\robustness\r4_second_annotator\r4_second_annotator_agreement.csv
+14_r4_ras_annotator_stability,Shows aggregate RAS ranking is stable despite lower causal-structure agreement.,results\robustness\r4_second_annotator\analysis\r4_second_annotator_ras_comparison.csv
+15_r4_semantic_ras_annotator_stability,Sensitivity using direction + magnitude only; excludes causal-structure coding.,results\robustness\r4_second_annotator\analysis\r4_second_annotator_ras_comparison.csv
+16_r4_format_compliance_by_language,Instruction-following differences under rationale elicitation.,results\robustness\r4_hypothesis\r4_format_compliance_by_language.csv
+17_primary_to_r4_label_agreement_change,Shows that rationale elicitation changes the cross-lingual similarity structure non-uniformly.,results\direct_label_agreement\direct_label_agreement_strict_percent.csv; results\robustness\r4_recovered\r4_direct_label_agreement_percent.csv
+18_r4_label_agreement_vs_ras,Shows how static label similarity relates to rationale similarity.,results\robustness\r4_rationale_alignment\r4_ras_by_language_pair.csv
