@@ -64,17 +64,17 @@ The model classified the expected short-term stock-price effect using:
 
 This is an **ordinal scale**, not a prediction of actual stock returns.
 
-For each item \(i\) and language \(l\):
+For each item *i* and language *l*:
 
-\[
-\Delta_{i,l}=y^{CF}_{i,l}-y^{Original}_{i,l}
-\]
+$$
+\Delta_{i,l} = y^{CF}_{i,l} - y^{Original}_{i,l}
+$$
 
-For two languages \(a\) and \(b\):
+For two languages *a* and *b*:
 
-\[
-D_{i,a,b}=|\Delta_{i,a}-\Delta_{i,b}|
-\]
+$$
+D_{i,a,b} = |\Delta_{i,a} - \Delta_{i,b}|
+$$
 
 A smaller \(D\) means that the two languages reacted more similarly to the same counterfactual change.
 
