@@ -6,3 +6,8 @@ __pycache__/
 data/raw/*.parquet
 data/raw/*.csv
 
+
+# Local/temporary files
+config - copia/
+results/robustness/*.log
+run_robustness_r4 - copia.py
